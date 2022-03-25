@@ -1,0 +1,1429 @@
+channel,dateCreated,geography,guid,headline,id,language,mediaType,priority,slug,source,version
+STK567,24/03/2022 12:13:46,[
+  "RU";
+  "AE"
+],tag:reuters.com,2022:newsml_L2N2VR0RY,RPT-EXCLUSIVE-OPEC officials tell EU of unease about proposed ban on Russian oil, sources say,tag:reuters.com,2022:newsml_L2N2VR0RY:945337402,en,T,3,OIL-OPEC/EU (REPEAT, EXCLUSIVE, PIX),Thomson Reuters,945337402
+STK567,24/03/2022 12:13:19,GB,tag:reuters.com,2022:newsml_L5N2VR3SG,British Vogue puts Queen Elizabeth on cover to mark Platinum Jubilee,tag:reuters.com,2022:newsml_L5N2VR3SG:518193206,en,T,3,BRITAIN-ROYALS/QUEEN-VOGUE (TV),Thomson Reuters,518193206
+STK567,24/03/2022 12:12:21,[
+  "RU";
+  "AE"
+],tag:reuters.com,2022:newsml_L2N2VR0RY,RPT-EXCLUSIVE-OPEC officials tell EU of unease about proposed ban on Russian oil, sources say,tag:reuters.com,2022:newsml_L2N2VR0RY:848380163,en,T,3,OIL-OPEC/EU (REPEAT, EXCLUSIVE, PIX),Thomson Reuters,848380163
+STK567,24/03/2022 12:12:16,[
+  "RU";
+  "GB";
+  "UA"
+],tag:reuters.com,2022:newsml_L5N2VR449,UPDATE 1-Ukraine's president asks NATO for more military support against Russia,tag:reuters.com,2022:newsml_L5N2VR449:1067525704,en,T,3,UKRAINE-CRISIS/ZELENSKIY-NATO (UPDATE 1, PIX),Thomson Reuters,1067525704
+STK567,24/03/2022 12:11:53,[
+  "RU";
+  "GB";
+  "FR";
+  "US";
+  "UA"
+],tag:reuters.com,2022:newsml_MT1ALTS8N2QT06G4,UK PM JOHNSON'S SPOKESMAN SAYS UK NOT DEPENDENT ON RUSSIAN GAS,tag:reuters.com,2022:newsml_MT1ALTS8N2QT06G4:2013849305,en,T,1,UK PM JOHNSON'S SPOKESMAN SAYS UK NOT DEPENDENT ON RUSSIAN GAS,Thomson Reuters,2013849305
+STK567,24/03/2022 12:11:52,[
+  "RU";
+  "GB";
+  "FR";
+  "US";
+  "UA"
+],tag:reuters.com,2022:newsml_MT1ALTS8N2QT06G3,UK PM JOHNSON'S SPOKESMAN SAYS MONITORING THE IMPLICATIONS OF THE RUSSIAN MOVE TO CHARGE FOR RUSSIAN GAS IN ROUBLES,tag:reuters.com,2022:newsml_MT1ALTS8N2QT06G3:467868724,en,T,1,UK PM JOHNSON'S SPOKESMAN SAYS MONITORING THE IMPLICATIONS OF TH,Thomson Reuters,467868724
+STK567,24/03/2022 12:09:48,[
+  "ML";
+  "FR"
+],tag:reuters.com,2022:newsml_L5N2VR452,UPDATE 1-W. African court orders suspension of some sanctions against Mali,tag:reuters.com,2022:newsml_L5N2VR452:1664094076,en,T,3,MALI-POLITICS/COURT (UPDATE 1),Thomson Reuters,1664094076
+STK567,24/03/2022 12:07:23,[
+  "CH";
+  "SRB";
+  "GB"
+],tag:reuters.com,2022:newsml_L2N2VR0WO,Soccer-Schar out of Swiss camp with adductor injury,tag:reuters.com,2022:newsml_L2N2VR0WO:2136805425,en,T,3,SOCCER-FRIENDLY-ENG-SWI/,Thomson Reuters,2136805425
+STK567,24/03/2022 12:06:14,,tag:reuters.com,2022:newsml_MTZXEI3O8Y7DOH,UPDATE 2-World Cup Qualifiers (Asia) Summaries,tag:reuters.com,2022:newsml_MTZXEI3O8Y7DOH:2,en,T,4,SOCCER-WORLDCUP/SUMMARIES (UPDATE 2),Opta Sports Data,2
+STK567,24/03/2022 12:04:41,[
+  "RU";
+  "AE"
+],tag:reuters.com,2022:newsml_L2N2VR0RY,EXCLUSIVE-OPEC officials tell EU of unease about proposed ban on Russian oil, sources say,tag:reuters.com,2022:newsml_L2N2VR0RY:509571434,en,T,3,OIL-OPEC/EU (EXCLUSIVE, PIX),Thomson Reuters,509571434
+STK567,24/03/2022 12:04:25,[
+  "RU";
+  "AE"
+],tag:reuters.com,2022:newsml_MT1ALTL2N2VR0RY1,OPEC OFFICIALS HAVE TOLD EU OF THEIR UNEASE ABOUT PROPOSED EU BAN ON RUSSIAN OIL - OPEC SOURCES,tag:reuters.com,2022:newsml_MT1ALTL2N2VR0RY1:1265640826,en,T,1,OPEC OFFICIALS HAVE TOLD EU OF THEIR UNEASE ABOUT PROPOSED EU BA,Thomson Reuters,1265640826
+STK567,24/03/2022 12:02:43,[
+  "RU";
+  "GB";
+  "FR";
+  "DE";
+  "US";
+  "UA"
+],tag:reuters.com,2022:newsml_L5N2VL35R,Diesel shortage in Europe threatens to slow economic growth,tag:reuters.com,2022:newsml_L5N2VL35R:1229901658,en,T,3,GLOBAL-OIL/DIESEL,Thomson Reuters,1229901658
+STK567,24/03/2022 12:01:03,[
+  "TJ";
+  "PE";
+  "CH";
+  "RU";
+  "SRB";
+  "AU";
+  "KR";
+  "IT";
+  "MY";
+  "SY";
+  "GR";
+  "SA";
+  "BO";
+  "VE";
+  "NP";
+  "BG";
+  "IL";
+  "HU";
+  "MM";
+  "KW";
+  "GB";
+  "VN";
+  "JP";
+  "IR";
+  "QA";
+  "SD";
+  "AR";
+  "ZW";
+  "NZ";
+  "CN";
+  "CY";
+  "GH";
+  "LK";
+  "TR";
+  "CU";
+  "SO";
+  "AL";
+  "SQ";
+  "FR";
+  "TH";
+  "DE";
+  "LB";
+  "KZ";
+  "BE";
+  "BT";
+  "EG";
+  "KG";
+  "US";
+  "LU";
+  "UA";
+  "IE";
+  "AZ";
+  "IN";
+  "ES";
+  "AE";
+  "BD";
+  "PL"
+],tag:reuters.com,2022:newsml_L3N2VR2UE,DIARY-Political and General News Events from March 24,tag:reuters.com,2022:newsml_L3N2VR2UE:432840677,en,T,3,DIARY-POLITICAL/ (DIARY),Thomson Reuters,432840677
+STK567,24/03/2022 11:58:39,[
+  "RU";
+  "KP";
+  "JP";
+  "US";
+  "UA"
+],tag:reuters.com,2022:newsml_T9N2CZ00V,Japan, U.S. see N.Korea missile development as grave challenge to the world,tag:reuters.com,2022:newsml_T9N2CZ00V:2098413060,en,T,2,NORTHKOREA-MISSILES/JAPAN-USA (URGENT),Thomson Reuters,2098413060
+STK567,24/03/2022 11:58:04,[
+  "RU";
+  "UA"
+],tag:reuters.com,2022:newsml_L2N2VR0JO,UPDATE 2-Ukrainian agriculture minister quits, senior lawmaker set to replace him,tag:reuters.com,2022:newsml_L2N2VR0JO:169974938,en,T,3,UKRAINE-CRISIS/AGRICULTURE-MINISTER (UPDATE 2, PIX),Thomson Reuters,169974938
+STK567,24/03/2022 11:57:27,[
+  "RU";
+  "BY";
+  "US";
+  "UA"
+],tag:reuters.com,2022:newsml_S8N2VD0LB,REFILE--U.S. and allies aiming to provide anti-ship missiles to Kyiv, official says,tag:reuters.com,2022:newsml_S8N2VD0LB:281636626,en,T,3,UKRAINE-CRISIS/NATO-USA (CORRECTED),Thomson Reuters,281636626
+STK567,24/03/2022 11:47:37,[
+  "RU";
+  "UA"
+],tag:reuters.com,2022:newsml_L5N2VR3W5,UPDATE 1-Armies must agree before civilian evacuation, Red Cross chief says,tag:reuters.com,2022:newsml_L5N2VR3W5:1612704940,en,T,3,UKRAINE-CRISIS/RUSSIA-REDCROSS (UPDATE 1, TV, PIX),Thomson Reuters,1612704940
+STK567,24/03/2022 11:45:57,[
+  "CH";
+  "RU";
+  "JP";
+  "FR";
+  "US"
+],tag:reuters.com,2022:newsml_L5N2VR2LL,Russia says it will decide on future use of Moscow's Renault plant next week,tag:reuters.com,2022:newsml_L5N2VR2LL:1781275017,en,T,3,UKRAINE-CRISIS/RENAULT-MOSCOW,Thomson Reuters,1781275017
+STK567,24/03/2022 11:44:40,GB,tag:reuters.com,2022:newsml_L5N2VR42H,Britain's Queen Elizabeth hopes to attend memorial service for late husband Philip,tag:reuters.com,2022:newsml_L5N2VR42H:327930132,en,T,3,BRITAIN-ROYALS/,Thomson Reuters,327930132
+STK567,24/03/2022 11:44:32,[
+  "ML";
+  "FR"
+],tag:reuters.com,2022:newsml_D7N2RG00S,W. African court orders suspension of monetary union sanctions against Mali,tag:reuters.com,2022:newsml_D7N2RG00S:1751469067,en,T,2,MALI-POLITICS/COURT (URGENT),Thomson Reuters,1751469067
+STK567,24/03/2022 11:40:39,[
+  "ML";
+  "FR"
+],tag:reuters.com,2022:newsml_MT1ALTD7N2RG00S2,WEST AFRICAN COURT ORDERS SUSPENSION OF MONETARY UNION'S SANCTIONS AGAINST MALI - COURT SPOKESWOMAN,tag:reuters.com,2022:newsml_MT1ALTD7N2RG00S2:669724700,en,T,1,WEST AFRICAN COURT ORDERS SUSPENSION OF MONETARY UNION'S SANCTIO,Thomson Reuters,669724700
+STK567,24/03/2022 11:39:41,[
+  "RU";
+  "BY";
+  "US";
+  "UA"
+],tag:reuters.com,2022:newsml_S8N2VD0LB,HOLD-U.S. and allies aiming to provide anti-ship missiles to Kyiv, official says,tag:reuters.com,2022:newsml_S8N2VD0LB:1298319717,en,T,3,UKRAINE-CRISIS/NATO-USA,Thomson Reuters,1298319717
+STK567,24/03/2022 11:39:26,[
+  "IT";
+  "DE"
+],tag:reuters.com,2022:newsml_L5N2VR2VU,Fincantieri to expand defence business, M&A halted for now,tag:reuters.com,2022:newsml_L5N2VR2VU:1462631806,en,T,3,FINCANTIERI-STRATEGY/ (PIX),Thomson Reuters,1462631806
+STK567,24/03/2022 11:39:24,[
+  "RU";
+  "BY";
+  "US";
+  "UA"
+],tag:reuters.com,2022:newsml_MT1ALTS8N2VD0LB8,US HAS TALKED WITH ALLIES TO HELP GET UKRAINE ANTI-SHIP MISSILES - SENIOR ADMINISTRATION OFFICIAL,tag:reuters.com,2022:newsml_MT1ALTS8N2VD0LB8:1484501478,en,T,1,US HAS TALKED WITH ALLIES TO HELP GET UKRAINE ANTI-SHIP MISSILES,Thomson Reuters,1484501478
+STK567,24/03/2022 11:39:23,[
+  "RU";
+  "CN";
+  "US";
+  "UA"
+],tag:reuters.com,2022:newsml_MT1ALTS8N2VD0LB7,NATO MEMBERS SAID CHINA NEEDS TO LIVE UP TO ITS RESPONSIBILITY - SENIOR ADMINISTRATION OFFICIAL,tag:reuters.com,2022:newsml_MT1ALTS8N2VD0LB7:916499100,en,T,1,NATO MEMBERS SAID CHINA NEEDS TO LIVE UP TO ITS RESPONSIBILITY -,Thomson Reuters,916499100
+STK567,24/03/2022 11:39:22,[
+  "RU";
+  "US";
+  "UA"
+],tag:reuters.com,2022:newsml_MT1ALTS8N2VD0LB6,U.S. PRESIDENT BIDEN TOLD NATO HE SUPPORTED INCREASED NATO TROOPS ON EASTERN FRONT - SENIOR ADMINISTRATION OFFICIAL,tag:reuters.com,2022:newsml_MT1ALTS8N2VD0LB6:1469488324,en,T,1,U.S. PRESIDENT BIDEN TOLD NATO HE SUPPORTED INCREASED NATO TROOP,Thomson Reuters,1469488324
+STK567,24/03/2022 11:39:21,[
+  "RU";
+  "US";
+  "UA"
+],tag:reuters.com,2022:newsml_MT1ALTS8N2VD0LB5,ZELENSKY ADDRESSED NATO VIA VIDEO LINK AND DID NOT ASK FOR NO FLY ZONE OR TO JOIN NATO - SENIOR ADMINISTRATION OFFICIAL,tag:reuters.com,2022:newsml_MT1ALTS8N2VD0LB5:215296826,en,T,1,ZELENSKY ADDRESSED NATO VIA VIDEO LINK AND DID NOT ASK FOR NO F,Thomson Reuters,215296826
+STK567,24/03/2022 11:39:19,[
+  "RU";
+  "GB";
+  "US";
+  "UA"
+],tag:reuters.com,2022:newsml_S8N2VH08D,Kremlin says UK's Johnson is most active anti-Russian leader - RIA,tag:reuters.com,2022:newsml_S8N2VH08D:1269815169,en,T,2,UKRAINE-CRISIS/RUSIA-JOHNSON (URGENT),Thomson Reuters,1269815169
+STK567,24/03/2022 11:37:23,[
+  "IT";
+  "FI";
+  "GR";
+  "AT";
+  "PT";
+  "FR";
+  "DE";
+  "BE";
+  "NL";
+  "IE";
+  "ES"
+],tag:reuters.com,2022:newsml_L5N2VR3ER,UPDATE 1-Euro zone debt yields soar to fresh highs as bond bashing resumes,tag:reuters.com,2022:newsml_L5N2VR3ER:1019534652,en,T,3,EUROZONE-BONDS/ (UPDATE 1),Thomson Reuters,1019534652
+STK567,24/03/2022 11:37:07,,tag:reuters.com,2022:newsml_FLMb7Wd8H,Blackhawks aim to complete L.A.-area sweep vs. Kings,tag:reuters.com,2022:newsml_FLMb7Wd8H:2038980005,en,T,3,ICEHOCKEY-NHL-LAK-CHI/PREVIEW,Field Level Media. All Rights Reserved.,2038980005
+STK567,24/03/2022 11:32:37,[
+  "RU";
+  "GB";
+  "UA"
+],tag:reuters.com,2022:newsml_C6N2VI00K,Ukraine's president asks NATO for more military support against Russia,tag:reuters.com,2022:newsml_C6N2VI00K:1213470184,en,T,2,UKRAINE-CRISIS/ZELENSKIY-NATO (URGENT),Thomson Reuters,1213470184
+STK567,24/03/2022 11:30:21,[
+  "AU";
+  "SA";
+  "JP";
+  "QA"
+],tag:reuters.com,2022:newsml_L3N2VM02U,UPDATE 1-Soccer-Mitoma double sends Japan, Saudi Arabia to World Cup finals,tag:reuters.com,2022:newsml_L3N2VM02U:1483812181,en,T,3,SOCCER-WORLDCUP-AUS-JPN/REPORT (UPDATE 1, PIX),Thomson Reuters,1483812181
+STK567,24/03/2022 11:30:00,,tag:reuters.com,2022:newsml_L2N2VR0J4,Biodiversity loss poses global financial threat, report says,tag:reuters.com,2022:newsml_L2N2VR0J4:1367861951,en,T,3,CLIMATE-CHANGE/CENBANK (PIX),Thomson Reuters,1367861951
+STK567,24/03/2022 11:29:41,,tag:reuters.com,2022:newsml_FLMb1pc9f,Goaltending excitement surrounds Wild ahead of Canucks' visit,tag:reuters.com,2022:newsml_FLMb1pc9f:716159051,en,T,3,ICEHOCKEY-NHL-MIN-VAN/PREVIEW,Field Level Media. All Rights Reserved.,716159051
+STK567,24/03/2022 11:29:13,US,tag:reuters.com,2022:newsml_L3N2VR2JI,US STOCKS-Futures rise as investors eye NATO summit, data,tag:reuters.com,2022:newsml_L3N2VR2JI:699642223,en,T,3,USA-STOCKS/,Thomson Reuters,699642223
+STK567,24/03/2022 11:29:04,[
+  "RU";
+  "US";
+  "UA"
+],tag:reuters.com,2022:newsml_L2N2VR0SF,UPDATE 1-U.S. to accept up to 100,000 Ukrainians fleeing war -sources,tag:reuters.com,2022:newsml_L2N2VR0SF:52380941,en,T,3,UKRAINE-CRISIS/REFUGEES-USA (UPDATE 1),Thomson Reuters,52380941
+STK567,24/03/2022 11:28:04,[
+  "RU";
+  "UA"
+],tag:reuters.com,2022:newsml_L2N2VR0SD,Ukraine and Russia: What you need to know right now,tag:reuters.com,2022:newsml_L2N2VR0SD:598283615,en,T,3,UKRAINE-CRISIS/SNAPSHOT (PIX),Thomson Reuters,598283615
+STK567,24/03/2022 11:23:50,US,tag:reuters.com,2022:newsml_L3N2VR2Q8,Moderna raises full-year COVID vaccine sales forecast to $21 billion,tag:reuters.com,2022:newsml_L3N2VR2Q8:294111702,en,T,3,MODERNA-OUTLOOK/ (URGENT),Thomson Reuters,294111702
+STK567,24/03/2022 11:23:44,[
+  "JP";
+  "US"
+],tag:reuters.com,2022:newsml_L2N2VR0EJ,UPDATE 2-U.S. and Japan strike deal on beef tariffs,tag:reuters.com,2022:newsml_L2N2VR0EJ:1675835505,en,T,3,USA-TRADE/JAPAN (UPDATE 2),Thomson Reuters,1675835505
+STK567,24/03/2022 11:23:01,GB,tag:reuters.com,2022:newsml_L2N2VR0O2,UPDATE 1-'Indefensible': UK's Sunak under fire over response to cost of living crisis,tag:reuters.com,2022:newsml_L2N2VR0O2:1531938811,en,T,3,BRITAIN-BUDGET/ (UPDATE 1, PIX),Thomson Reuters,1531938811
+STK567,24/03/2022 11:23:00,[
+  "RU";
+  "GB";
+  "US";
+  "UA"
+],tag:reuters.com,2022:newsml_MT1ALTS8N2VH08D2,KREMLIN SPOKESMAN SAYS U,K. PRIME MINISTER IS THE MOST ACTIVE ANTI-RUSSIAN LEADER - RIA,tag:reuters.com,2022:newsml_MT1ALTS8N2VH08D2:1836131501,en,T,1,KREMLIN SPOKESMAN SAYS U,K. PRIME MINISTER IS THE MOST ACTIVE AN,Thomson Reuters,1836131501
+STK567,24/03/2022 11:21:41,[
+  "RU";
+  "GB";
+  "UA"
+],tag:reuters.com,2022:newsml_MT1ALTC6N2VI00K10,UKRAINE PRESIDENT ACCUSES RUSSIA OF USING PHOSPHOROUS BOMBS, DOES NOT CITE ANY EVIDENCE,tag:reuters.com,2022:newsml_MT1ALTC6N2VI00K10:109343151,en,T,1,UKRAINE PRESIDENT ACCUSES RUSSIA OF USING PHOSPHOROUS BOMBS, DOE,Thomson Reuters,109343151
+STK567,24/03/2022 11:21:39,[
+  "RU";
+  "GB";
+  "UA"
+],tag:reuters.com,2022:newsml_MT1ALTC6N2VI00K9,UKRAINE PRESIDENT SAYS WORLD IS WAITING FOR REAL ACTION AND REAL SECURITY GUARANTEES FROM NATO,tag:reuters.com,2022:newsml_MT1ALTC6N2VI00K9:1579303135,en,T,1,UKRAINE PRESIDENT SAYS WORLD IS WAITING FOR REAL ACTION AND REAL,Thomson Reuters,1579303135
+STK567,24/03/2022 11:21:38,[
+  "RU";
+  "GB";
+  "UA"
+],tag:reuters.com,2022:newsml_MT1ALTC6N2VI00K8,UKRAINE PRESIDENT TELLS NATO RUSSIA PLANS TO GO FURTHER, TARGET EASTERN NATO STATES,tag:reuters.com,2022:newsml_MT1ALTC6N2VI00K8:706260685,en,T,1,UKRAINE PRESIDENT TELLS NATO RUSSIA PLANS TO GO FURTHER, TARGET,Thomson Reuters,706260685
+STK567,24/03/2022 11:21:37,[
+  "RU";
+  "GB";
+  "UA"
+],tag:reuters.com,2022:newsml_MT1ALTC6N2VI00K7,UKRAINE PRESIDENT TELLS NATO UKRAINE NEEDS FIGHTER JETS, TANKS, BETTER AIR DEFENCE AND ANTI-SHIP WEAPONS,tag:reuters.com,2022:newsml_MT1ALTC6N2VI00K7:1546864894,en,T,1,UKRAINE PRESIDENT TELLS NATO UKRAINE NEEDS FIGHTER JETS, TANKS,,Thomson Reuters,1546864894
+STK567,24/03/2022 11:21:36,[
+  "RU";
+  "GB";
+  "UA"
+],tag:reuters.com,2022:newsml_MT1ALTC6N2VI00K6,UKRAINE PRESIDENT ASKS NATO FOR MORE MILITARY ASSISTANCE IN PRE-RECORDED VIDEO SPEECH RELEASED BY THE  UKRAINIAN PRESIDENCY,tag:reuters.com,2022:newsml_MT1ALTC6N2VI00K6:825681291,en,T,1,UKRAINE PRESIDENT ASKS NATO FOR MORE MILITARY ASSISTANCE IN PRE-,Thomson Reuters,825681291
+STK567,24/03/2022 11:21:12,,tag:reuters.com,2022:newsml_MTZXEI3O8Y7COC,World Cup Qualifiers (Asia) Results,tag:reuters.com,2022:newsml_MTZXEI3O8Y7COC:1,en,T,4,SOCCER-WORLDCUP/RESULTS,Opta Sports Data,1
+STK567,24/03/2022 11:21:12,,tag:reuters.com,2022:newsml_MTZXEI3O8Y7COG,World Cup Qualifiers (Oceania) Summaries,tag:reuters.com,2022:newsml_MTZXEI3O8Y7COG:1,en,T,4,SOCCER-WORLDCUP/SUMMARIES,Opta Sports Data,1
+STK567,24/03/2022 11:21:12,,tag:reuters.com,2022:newsml_MTZXEI3O8Y7COB,World Cup Qualifiers (Europe) Summaries,tag:reuters.com,2022:newsml_MTZXEI3O8Y7COB:1,en,T,4,SOCCER-WORLDCUP/SUMMARIES,Opta Sports Data,1
+STK567,24/03/2022 11:21:12,,tag:reuters.com,2022:newsml_MTZXEI3O8Y7COF,World Cup Qualifiers (Oceania) Results,tag:reuters.com,2022:newsml_MTZXEI3O8Y7COF:1,en,T,4,SOCCER-WORLDCUP/RESULTS,Opta Sports Data,1
+STK567,24/03/2022 11:21:12,,tag:reuters.com,2022:newsml_MTZXEI3O8Y7COE,World Cup Qualifiers (Europe) Results,tag:reuters.com,2022:newsml_MTZXEI3O8Y7COE:1,en,T,4,SOCCER-WORLDCUP/RESULTS,Opta Sports Data,1
+STK567,24/03/2022 11:21:12,,tag:reuters.com,2022:newsml_MTZXEI3O8Y7DOH,World Cup Qualifiers (Asia) Summaries,tag:reuters.com,2022:newsml_MTZXEI3O8Y7DOH:1,en,T,4,SOCCER-WORLDCUP/SUMMARIES,Opta Sports Data,1
+STK567,24/03/2022 11:19:58,IT,tag:reuters.com,2022:newsml_S8N2U1033,Italy's 2021 growth, deficit/GDP unchanged after revision of natural gas import data,tag:reuters.com,2022:newsml_S8N2U1033:2091140512,en,T,2,ITALY-GDP/ISTAT (URGENT),Thomson Reuters,2091140512
+STK567,24/03/2022 11:19:45,[
+  "CH";
+  "RU";
+  "GB";
+  "BY";
+  "US";
+  "UA"
+],tag:reuters.com,2022:newsml_L5N2VR3HC,UPDATE 1-Swiss freeze more than $6 billion worth of sanctioned Russian assets,tag:reuters.com,2022:newsml_L5N2VR3HC:1086374597,en,T,3,UKRAINE-CRISIS/SWISS (UPDATE 1),Thomson Reuters,1086374597
+STK567,24/03/2022 11:17:43,[
+  "NO";
+  "UA"
+],tag:reuters.com,2022:newsml_L5N2VR2KI,UPDATE 4-Norway hikes interest rates, plans steeper curve ahead,tag:reuters.com,2022:newsml_L5N2VR2KI:1252398911,en,T,3,NORWAY-ECONOMY/RATES (UPDATE 4),Thomson Reuters,1252398911
+STK567,24/03/2022 11:16:20,[
+  "RU";
+  "UA"
+],tag:reuters.com,2022:newsml_S8N2UP04R,Russian defence minister updates Putin on Ukraine military campaign - Interfax,tag:reuters.com,2022:newsml_S8N2UP04R:599430714,en,T,2,UKRAINE-CRISIS/RUSSIA-SHOIGU (URGENT),Thomson Reuters,599430714
+STK567,24/03/2022 11:16:07,[
+  "KR";
+  "KP"
+],tag:reuters.com,2022:newsml_L3N2VR2NM,FACTBOX-The 'monster missile' that may be involved in N.Korea's biggest ICBM test,tag:reuters.com,2022:newsml_L3N2VR2NM:1796612158,en,T,3,NORTHKOREA-MISSILES/ICBM (FACTBOX, PIX),Thomson Reuters,1796612158
+STK567,24/03/2022 11:14:59,[
+  "ZA";
+  "AU";
+  "GB";
+  "IN"
+],tag:reuters.com,2022:newsml_L3N2VR1L9,PREVIEW-Cricket-Chennai meets Kolkata as expanded IPL returns home,tag:reuters.com,2022:newsml_L3N2VR1L9:868458986,en,T,3,CRICKET-IPL/ (PREVIEW, PIX),Thomson Reuters,868458986
+STK567,24/03/2022 11:10:51,IT,tag:reuters.com,2022:newsml_MT1ALTS8N2U10336,ITALY'S NATIONAL STATISTICS OFFICE ISTAT  SAYS 2021 DEFICIT/GDP RATIO WOULD STAY UNCHANGED AT 7.2%,tag:reuters.com,2022:newsml_MT1ALTS8N2U10336:404435072,en,T,1,ITALY'S NATIONAL STATISTICS OFFICE ISTAT  SAYS 2021 DEFICIT/GDP,Thomson Reuters,404435072
+STK567,24/03/2022 11:10:26,[
+  "RU";
+  "US";
+  "UA"
+],tag:reuters.com,2022:newsml_W1N2U402C,U.S. to accept up to 100,000 Ukrainians fleeing war -sources,tag:reuters.com,2022:newsml_W1N2U402C:1035563988,en,T,2,UKRAINE-CRISIS/REFUGEES-USA (URGENT),Thomson Reuters,1035563988
+STK567,24/03/2022 11:10:15,[
+  "RU";
+  "US";
+  "UA"
+],tag:reuters.com,2022:newsml_MT1ALTS8N2UP04R4,RUSSIAN DEFENCE MINISTER SHOIGU UPDATED PUTIN AND SECURITY COUNCIL ON OPERATION IN UKRAINE - IFAX CITES PESKOV,tag:reuters.com,2022:newsml_MT1ALTS8N2UP04R4:1755847097,en,T,1,RUSSIAN DEFENCE MINISTER SHOIGU UPDATED PUTIN AND SECURITY COUNC,Thomson Reuters,1755847097
+STK567,24/03/2022 11:09:59,IT,tag:reuters.com,2022:newsml_MT1ALTS8N2U10334,ITALY'S NATIONAL STATISTICS OFFICE ISTAT  SAYS 2021 GROWTH WOULD STAY UNCHANGED AT 6.6% AFTER REVISION OF NATURAL GAS IMPORT FIGURES,tag:reuters.com,2022:newsml_MT1ALTS8N2U10334:1339428712,en,T,1,ITALY'S NATIONAL STATISTICS OFFICE ISTAT  SAYS 2021 GROWTH WOULD,Thomson Reuters,1339428712
+STK567,24/03/2022 11:09:47,[
+  "RU";
+  "US";
+  "UA"
+],tag:reuters.com,2022:newsml_MT1ALTS8N2UP04R2,KREMLIN SAYS REGRETS WERE EXPRESSED AT MEETING OF PUTIN AND RUSSIAN SECURITY COUNCIL OVER UKRAINE BEING SLOW AT TALKS - IFAX,tag:reuters.com,2022:newsml_MT1ALTS8N2UP04R2:1222754888,en,T,1,KREMLIN SAYS REGRETS WERE EXPRESSED AT MEETING OF PUTIN AND RUSS,Thomson Reuters,1222754888
+STK567,24/03/2022 11:06:18,IT,tag:reuters.com,2022:newsml_MT1ALTS8N2U10332,ITALY'S NATIONAL STATISTICS OFFICE ISTAT SAYS 2021 NOMINAL GDP COULD BE REVISED DOWN BETWEEN 0.3-0.4%,tag:reuters.com,2022:newsml_MT1ALTS8N2U10332:1099465500,en,T,1,ITALY'S NATIONAL STATISTICS OFFICE ISTAT SAYS 2021 NOMINAL GDP C,Thomson Reuters,1099465500
+STK567,24/03/2022 11:05:37,[
+  "RU";
+  "US";
+  "UA"
+],tag:reuters.com,2022:newsml_MT1ALTW1N2U402C2,U.S. TO ANNOUNCE PLAN TO ACCEPT UP TO 100,000 UKRAINIANS FLEEING WAR -SOURCES,tag:reuters.com,2022:newsml_MT1ALTW1N2U402C2:404714517,en,T,1,U.S. TO ANNOUNCE PLAN TO ACCEPT UP TO 100,000 UKRAINIANS FLEEING,Thomson Reuters,404714517
+STK567,24/03/2022 11:05:34,[
+  "AU";
+  "SA";
+  "JP";
+  "QA"
+],tag:reuters.com,2022:newsml_L3N2VQ0T7,Soccer-Japan, Saudi Arabia qualify for World Cup finals,tag:reuters.com,2022:newsml_L3N2VQ0T7:815709122,en,T,2,SOCCER-WORLDCUP-AUS-JPN/ (URGENT),Thomson Reuters,815709122
+STK567,24/03/2022 11:04:15,[
+  "AU";
+  "SA";
+  "JP";
+  "QA"
+],tag:reuters.com,2022:newsml_MT1ALTL3N2VQ0T71,JAPAN AND SAUDI ARABIA QUALIFY FOR 2022 SOCCER WORLD CUP FINALS AFTER AUSTRALIA LOSS,tag:reuters.com,2022:newsml_MT1ALTL3N2VQ0T71:1409443705,en,T,1,JAPAN AND SAUDI ARABIA QUALIFY FOR 2022 SOCCER WORLD CUP FINALS,Thomson Reuters,1409443705
+STK567,24/03/2022 11:03:51,[
+  "RU";
+  "GB";
+  "DE";
+  "UA";
+  "IE";
+  "PL"
+],tag:reuters.com,2022:newsml_L5N2VP2K0,For Ukraine's refugee children, schools promise a fresh start,tag:reuters.com,2022:newsml_L5N2VP2K0:1778892328,en,T,3,EUROPE-UKRAINE/EDUCATION-CHILDREN (PIX),Thomson Reuters,1778892328
+STK567,24/03/2022 11:03:35,[
+  "RU";
+  "MX"
+],tag:reuters.com,2022:newsml_L2N2VR0EU,UPDATE 3-Russia stocks jump as trade resumes after month-long break,tag:reuters.com,2022:newsml_L2N2VR0EU:196739300,en,T,3,RUSSIA-MARKETS/ (UPDATE 3, TV, PIX),Thomson Reuters,196739300
+STK567,24/03/2022 11:02:15,[
+  "GB";
+  "ES"
+],tag:reuters.com,2022:newsml_LUN2J900A,Former Spanish king could face trial after UK court rejects sovereign immunity,tag:reuters.com,2022:newsml_LUN2J900A:673757716,en,T,2,SPAIN-ROYALS/JUAN CARLOS (URGENT),Thomson Reuters,673757716
+STK567,24/03/2022 11:01:31,[
+  "ZA";
+  "RU";
+  "HU";
+  "TR";
+  "CZ";
+  "UA";
+  "PL"
+],tag:reuters.com,2022:newsml_L3N2VR22Q,EMERGING MARKETS-EM stocks, currencies step back after rally; Moscow shares restart trade,tag:reuters.com,2022:newsml_L3N2VR22Q:1003391437,en,T,3,EMERGING-MARKETS/,Thomson Reuters,1003391437
+STK567,24/03/2022 11:00:47,[
+  "RU";
+  "SE";
+  "UA"
+],tag:reuters.com,2022:newsml_L5N2VR3G2,UPDATE 1-Ukraine's Zelenskiy makes plea for full membership of EU,tag:reuters.com,2022:newsml_L5N2VR3G2:1926946525,en,T,3,UKRAINE-CRISIS/ZELENSKIY-SWEDEN (UPDATE 1),Thomson Reuters,1926946525
+STK567,24/03/2022 11:00:05,FR,tag:reuters.com,2022:newsml_MT1ALTS8N2I404W6,MACRON SEEN WITH 28%, LE PEN 20%, MELENCHON 14%, PECRESSE 12%, ZEMMOUR 9% OF VOTE IN FIRST ROUND OF FRANCE'S PRESIDENTIAL ELECTION – POLL OPINIONWAY - KÉA PARTNERS FOR LES ECHOS AND RADIO CLASSIQUE,tag:reuters.com,2022:newsml_MT1ALTS8N2I404W6:325372144,en,T,1,MACRON SEEN WITH 28%, LE PEN 20%, MELENCHON 14%, PECRESSE 12%, Z,Thomson Reuters,325372144
+STK567,24/03/2022 11:00:03,FR,tag:reuters.com,2022:newsml_MT1ALTS8N2I404W5,MACRON AND LE PEN SEEN LEADING THE FIRST ROUND OF FRANCE'S PRESIDENTIAL ELECTION AND QUALIFYING FOR RUN-OFF – POLL OPINIONWAY - KÉA PARTNERS FOR LES ECHOS AND RADIO CLASSIQUE,tag:reuters.com,2022:newsml_MT1ALTS8N2I404W5:2040599958,en,T,1,MACRON AND LE PEN SEEN LEADING THE FIRST ROUND OF FRANCE'S PRES,Thomson Reuters,2040599958
+STK567,24/03/2022 11:00:02,FR,tag:reuters.com,2022:newsml_MT1ALTS8N2I404W4,MACRON SEEN WINNING FRANCE'S PRESIDENTIAL ELECTION RUN-OFF WITH 55% OF VOTE VS LE PEN - POLL OPINIONWAY - KÉA PARTNERS FOR LES ECHOS AND RADIO CLASSIQUE,tag:reuters.com,2022:newsml_MT1ALTS8N2I404W4:176577186,en,T,1,MACRON SEEN WINNING FRANCE'S PRESIDENTIAL ELECTION RUN-OFF WITH,Thomson Reuters,176577186
+STK567,24/03/2022 11:00:01,[
+  "JO";
+  "GB";
+  "AE"
+],tag:reuters.com,2022:newsml_L5N2VI22V,Dubai ruler's ex-wife gets custody of children after 'exorbitant' domestic abuse,tag:reuters.com,2022:newsml_L5N2VI22V:802295153,en,T,3,BRITAIN-DUBAI/ (PIX),Thomson Reuters,802295153
+STK567,24/03/2022 11:00:00,FR,tag:reuters.com,2022:newsml_S8N2I404W,BRIEF-Macron And Le Pen Seen Leading 1st Round Of France's Presidential Election-Poll Opinionway - Kea Partners For Les Echos And Radio Classique,tag:reuters.com,2022:newsml_S8N2I404W:532821277,en,T,2,BRIEF-Macron And Le Pen Seen Leading 1st Round Of France's Presi,Thomson Reuters,532821277
+STK567,24/03/2022 11:00:00,[
+  "JO";
+  "GB";
+  "AE"
+],tag:reuters.com,2022:newsml_MT1ALTL5N2VI22V1,DUBAI RULER SHEIKH MOHAMMED'S BEHAVIOUR TOWARDS EX-WIFE PRINCESS HAYA IS 'EXORBITANT' DOMESTIC ABUSE - UK COURT,tag:reuters.com,2022:newsml_MT1ALTL5N2VI22V1:1073305090,en,T,1,DUBAI RULER SHEIKH MOHAMMED'S BEHAVIOUR TOWARDS EX-WIFE PRINCESS,Thomson Reuters,1073305090
+STK567,24/03/2022 11:00:00,[
+  "JO";
+  "GB";
+  "AE"
+],tag:reuters.com,2022:newsml_L5N2VI2F7,TIMELINE-Abductions, hacking and horses: the Dubai royals' UK custody battle,tag:reuters.com,2022:newsml_L5N2VI2F7:1800769687,en,T,3,BRITAIN-DUBAI/TIMELINE (TIMELINE),Thomson Reuters,1800769687
+STK567,24/03/2022 11:00:00,CL,tag:reuters.com,2022:newsml_L6N2VQ06U,Ferrybox seeks to explore the secrets of Chile's cold southern seas,tag:reuters.com,2022:newsml_L6N2VQ06U:135769605,en,T,3,CHILE-ENVIRONMENT/FERRYBOX (TV),Thomson Reuters,135769605
+STK567,24/03/2022 11:00:00,[
+  "JO";
+  "GB";
+  "AE"
+],tag:reuters.com,2022:newsml_MT1ALTL5N2VI22V2,PRINCESS HAYA SHOULD HAVE SOLE RESPONSIBILITY FOR COUPLE'S TWO CHILDREN, UK COURT RULES,tag:reuters.com,2022:newsml_MT1ALTL5N2VI22V2:1998229755,en,T,1,PRINCESS HAYA SHOULD HAVE SOLE RESPONSIBILITY FOR COUPLE'S TWO C,Thomson Reuters,1998229755
+STK567,24/03/2022 10:59:01,[
+  "RU";
+  "IL";
+  "US";
+  "UA"
+],tag:reuters.com,2022:newsml_L5N2VQ5YG,INSIGHT-A month into war, communicator-in-chief Zelenskiy strives to keep eyes on Ukraine,tag:reuters.com,2022:newsml_L5N2VQ5YG:1331153525,en,T,3,UKRAINE-CRISIS/ZELENSKIY-MESSAGE (INSIGHT, PIX),Thomson Reuters,1331153525
+STK567,24/03/2022 10:58:22,ZA,tag:reuters.com,2022:newsml_L3N2VR2EA,World Bank sells first 'rhino' bond to help S.Africa's conservation efforts,tag:reuters.com,2022:newsml_L3N2VR2EA:815440025,en,T,3,SAFRICA-BONDS/WILDLIFE (PIX),Thomson Reuters,815440025
+STK567,24/03/2022 10:57:09,[
+  "RU";
+  "IL";
+  "US";
+  "UA"
+],tag:reuters.com,2022:newsml_L5N2VQ5YG,INSIGHT-A month into war, communicator-in-chief Zelenskiy strives to keep eyes on Ukraine,tag:reuters.com,2022:newsml_L5N2VQ5YG:1665638687,en,T,3,UKRAINE-CRISIS/ZELENSKIY-MESSAGE (INSIGHT, PIX),Thomson Reuters,1665638687
+STK567,24/03/2022 10:57:08,[
+  "RU";
+  "GB";
+  "BY";
+  "UA"
+],tag:reuters.com,2022:newsml_FWN2VR0G9,BRIEF-Shell To Invest Up To 25 Billion Stg In UK Energy After Cutting Ties With Russia - The Telegraph,tag:reuters.com,2022:newsml_FWN2VR0G9:716234927,en,T,2,BRIEF-Shell To Invest Up To 25 Billion Stg In UK Energy After Cu,Thomson Reuters,716234927
+STK567,24/03/2022 10:56:19,[
+  "RU";
+  "BG";
+  "UA"
+],tag:reuters.com,2022:newsml_L5N2VR3E5,Bulgaria to recall its ambassador to Russia for consultations,tag:reuters.com,2022:newsml_L5N2VR3E5:1753409852,en,T,2,UKRAINE-CRISIS/BULGARIA-RUSSIA (URGENT),Thomson Reuters,1753409852
+STK567,24/03/2022 10:55:37,[
+  "RU";
+  "UA"
+],tag:reuters.com,2022:newsml_R4N2UT06M,Red Cross chief says he plans to discuss POWs with Russian defence ministry,tag:reuters.com,2022:newsml_R4N2UT06M:161635497,en,T,2,UKRAINE-CRISIS/RUSSIA-REDCROSS (URGENT),Thomson Reuters,161635497
+STK567,24/03/2022 10:54:07,[
+  "RU";
+  "GB";
+  "BY";
+  "UA"
+],tag:reuters.com,2022:newsml_MT1ALTFWN2VR0G92,SHELL TO INVEST UP TO 25 BLN STG IN UK ENERGY AFTER CUTTING TIES WITH RUSSIA - THE TELEGRAPH,tag:reuters.com,2022:newsml_MT1ALTFWN2VR0G92:129568472,en,T,1,SHELL TO INVEST UP TO 25 BLN STG IN UK ENERGY AFTER CUTTING TIES,Thomson Reuters,129568472
+STK567,24/03/2022 10:51:54,[
+  "RU";
+  "US";
+  "UA"
+],tag:reuters.com,2022:newsml_L2N2VR03A,TOP WRAP 5-West to bolster Ukraine aid as Russian assault enters second month,tag:reuters.com,2022:newsml_L2N2VR03A:1785702284,en,T,3,UKRAINE-CRISIS/ (TOP WRAP 5, PIX, TV, GRAPHIC),Thomson Reuters,1785702284
+STK567,24/03/2022 10:51:01,[
+  "GB";
+  "ES"
+],tag:reuters.com,2022:newsml_MT1ALTLUN2J900A2,SPAIN'S FORMER KING JUAN CARLOS NOT IMMUNE TO FACE TRIAL IN LONDON OVER HARASSMENT CLAIM, UK HIGH COURT OF JUSTICE SAYS,tag:reuters.com,2022:newsml_MT1ALTLUN2J900A2:130424161,en,T,1,SPAIN'S FORMER KING JUAN CARLOS NOT IMMUNE TO FACE TRIAL IN LON,Thomson Reuters,130424161
+STK567,24/03/2022 10:49:57,[
+  "RU";
+  "GB";
+  "BY";
+  "US";
+  "UA"
+],tag:reuters.com,2022:newsml_L5N2VR2MH,UPDATE 3-UK sanctions Alfa, Gazprombank and Lavrov's step daughter,tag:reuters.com,2022:newsml_L5N2VR2MH:1309821907,en,T,3,UKRAINE-CRISIS/BRITAIN-SANCTIONS (UPDATE 3, PIX),Thomson Reuters,1309821907
+STK567,24/03/2022 10:49:29,[
+  "RU";
+  "UA"
+],tag:reuters.com,2022:newsml_L2N2VR0PC,Mariupol says 15,000 deported from besieged city to Russia,tag:reuters.com,2022:newsml_L2N2VR0PC:893899764,en,T,3,UKRAINE-CRISIS/MARIUPOL (PIX),Thomson Reuters,893899764
+STK567,24/03/2022 10:45:27,[
+  "RU";
+  "UA"
+],tag:reuters.com,2022:newsml_MT1ALTR4N2UT06M12,RED CROSS PRESIDENT MAURER SAYS IT’S NOT POSSIBLE TO THINK ABOUT ACCESS AND EVACUATION IN MARIUPOL AND ELSEWHERE  IF WE DON’T HAVE SOLID AGREEMENTS WITH THE MILITARIES ON THE GROUND,tag:reuters.com,2022:newsml_MT1ALTR4N2UT06M12:1593287260,en,T,1,RED CROSS PRESIDENT MAURER SAYS IT’S NOT POSSIBLE TO THINK ABOUT,Thomson Reuters,1593287260
+STK567,24/03/2022 10:45:09,[
+  "RU";
+  "NO";
+  "UA"
+],tag:reuters.com,2022:newsml_L5N2VR2EY,UPDATE 3-Stoltenberg to extend NATO term by one year amid Ukraine war - reports,tag:reuters.com,2022:newsml_L5N2VR2EY:2074629072,en,T,3,UKRAINE-CRISIS/NATO-STOLTENBERG (UPDATE 3, PIX),Thomson Reuters,2074629072
+STK567,24/03/2022 10:44:53,[
+  "RU";
+  "UA"
+],tag:reuters.com,2022:newsml_MT1ALTR4N2UT06M10,RED CROSS PRESIDENT MAURER SAYS WE THINK WE ARE CONFRONTED WITH A VERY COMPLEX FRONTLINE IN UKRAINE THAT SEES A LOT OF PEOPLE TRAPPED,tag:reuters.com,2022:newsml_MT1ALTR4N2UT06M10:990567135,en,T,1,RED CROSS PRESIDENT MAURER SAYS WE THINK WE ARE CONFRONTED WITH,Thomson Reuters,990567135
+STK567,24/03/2022 10:43:14,[
+  "CH";
+  "RU";
+  "GB";
+  "BY";
+  "US";
+  "UA"
+],tag:reuters.com,2022:newsml_Z8N2RV022,Swiss report more than $6 billion worth of sanctioned Russian assets,tag:reuters.com,2022:newsml_Z8N2RV022:2132969091,en,T,2,UKRAINE-CRISIS/SWISS (URGENT),Thomson Reuters,2132969091
+STK567,24/03/2022 10:42:51,[
+  "RU";
+  "UA"
+],tag:reuters.com,2022:newsml_MT1ALTR4N2UT06M8,RED CROSS PRESIDENT MAURER SAYS THERE ARE ALWAYS DIFFERENT INTERPRETATIONS OF INTERNATIONAL LAW,tag:reuters.com,2022:newsml_MT1ALTR4N2UT06M8:288187799,en,T,1,RED CROSS PRESIDENT MAURER SAYS THERE ARE ALWAYS DIFFERENT INTER,Thomson Reuters,288187799
+STK567,24/03/2022 10:42:23,[
+  "RU";
+  "UA"
+],tag:reuters.com,2022:newsml_MT1ALTR4N2UT06M6,RED CROSS PRESIDENT MAURER SAYS HE WILL BE DISCUSSING GENEVA CONVENTIONS AND THE ISSUES THEY COVER WITH THE RUSSIAN DEFENCE MINISTRY LATER ON THURSDAY TOO,tag:reuters.com,2022:newsml_MT1ALTR4N2UT06M6:174713794,en,T,1,RED CROSS PRESIDENT MAURER SAYS HE WILL BE DISCUSSING GENEVA CON,Thomson Reuters,174713794
+STK567,24/03/2022 10:41:38,[
+  "RU";
+  "UA"
+],tag:reuters.com,2022:newsml_MT1ALTR4N2UT06M4,RED CROSS PRESIDENT MAURER SAYS HE DISCUSSED THE GENEVA CONVENTIONS WITH RUSSIAN FOREIGN MINISTER LAVROV, SAID THEY NEED TO BE RESPECTED,tag:reuters.com,2022:newsml_MT1ALTR4N2UT06M4:1198503654,en,T,1,RED CROSS PRESIDENT MAURER SAYS HE DISCUSSED THE GENEVA CONVENTI,Thomson Reuters,1198503654
+STK567,24/03/2022 10:40:03,[
+  "CH";
+  "AU";
+  "KR";
+  "IT";
+  "TW";
+  "GB";
+  "JP";
+  "CN";
+  "FR";
+  "DE";
+  "US";
+  "ES"
+],tag:reuters.com,2022:newsml_L2N2VR0O9,GLOBAL MARKETS-Shares, oil volatile ahead of NATO Russia-Ukraine summit,tag:reuters.com,2022:newsml_L2N2VR0O9:1998160020,en,T,3,GLOBAL-MARKETS/ (WRAPUP 3, PIX),Thomson Reuters,1998160020
+STK567,24/03/2022 10:39:50,[
+  "RU";
+  "UA"
+],tag:reuters.com,2022:newsml_MT1ALTR4N2UT06M2,MOSCOW-HEAD OF THE INTERNATIONAL COMMITTEE OF THE RED CROSS SAYS PLANS TO DISCUSS PRISONERS OF WAR WITH RUSSIAN DEFENCE MINISTRY,tag:reuters.com,2022:newsml_MT1ALTR4N2UT06M2:117611538,en,T,1,MOSCOW-HEAD OF THE INTERNATIONAL COMMITTEE OF THE RED CROSS SAYS,Thomson Reuters,117611538
+STK567,24/03/2022 10:37:30,[
+  "GB";
+  "CN"
+],tag:reuters.com,2022:newsml_MT1ALTB9N2VI01M6,BYD SAYS IT PLANS TO FORM A JV WITH SHELL TO DEVELOP AN EV CHARGING NETWORK IN CHINA,tag:reuters.com,2022:newsml_MT1ALTB9N2VI01M6:1887162011,en,T,1,BYD SAYS IT PLANS TO FORM A JV WITH SHELL TO DEVELOP AN EV CHARG,Thomson Reuters,1887162011
+STK567,24/03/2022 10:36:59,[
+  "GB";
+  "CN"
+],tag:reuters.com,2022:newsml_MT1ALTB9N2VI01M4,BYD SAYS IT WILL ESTABLISH A MOBILITY SERVICE PROVIDER PARTNERSHIP IN EUROPE WITH SHELL,tag:reuters.com,2022:newsml_MT1ALTB9N2VI01M4:607035305,en,T,1,BYD SAYS IT WILL ESTABLISH A MOBILITY SERVICE PROVIDER PARTNERSH,Thomson Reuters,607035305
+STK567,24/03/2022 10:36:55,[
+  "RU";
+  "KR";
+  "KP";
+  "JP";
+  "CN";
+  "US";
+  "UA"
+],tag:reuters.com,2022:newsml_L2N2VR09S,WRAPUP 6-N.Korea tests largest ICBM, White House condemns return to long-range launches,tag:reuters.com,2022:newsml_L2N2VR09S:79084027,en,T,3,NORTHKOREA-MISSILES/ (WRAPUP 6, TV, PIX),Thomson Reuters,79084027
+STK567,24/03/2022 10:36:22,[
+  "GB";
+  "CN"
+],tag:reuters.com,2022:newsml_MT1ALTB9N2VI01M2,BYD SAYS HAS SIGNED A STRATEGIC COOPERATION AGREEMENT WITH SHELL,tag:reuters.com,2022:newsml_MT1ALTB9N2VI01M2:139472377,en,T,1,BYD SAYS HAS SIGNED A STRATEGIC COOPERATION AGREEMENT WITH SHELL,Thomson Reuters,139472377
+STK567,24/03/2022 10:36:17,[
+  "AU";
+  "PK"
+],tag:reuters.com,2022:newsml_L3N2VR171,Cricket-Australia set Pakistan 351-run target to win deciding Lahore test,tag:reuters.com,2022:newsml_L3N2VR171:330597721,en,T,3,CRICKET-TEST-PAK-AUS/INNINGS,Thomson Reuters,330597721
+STK567,24/03/2022 10:35:24,[
+  "CH";
+  "RU";
+  "GB";
+  "BY";
+  "US";
+  "UA"
+],tag:reuters.com,2022:newsml_MT1ALTZ8N2RV0224,SWISS GOVERNMENT SAYS NUMBER OF ASSETS REPORTED UNDER SANCTIONS LIKELY TO RISE SIGNIFICANTLY,tag:reuters.com,2022:newsml_MT1ALTZ8N2RV0224:1288146895,en,T,1,SWISS GOVERNMENT SAYS NUMBER OF ASSETS REPORTED UNDER SANCTIONS,Thomson Reuters,1288146895
+STK567,24/03/2022 10:34:13,[
+  "CH";
+  "RU";
+  "GB";
+  "BY";
+  "US";
+  "UA"
+],tag:reuters.com,2022:newsml_MT1ALTZ8N2RV0222,SWISS GOVERNMENT SAYS HAS GOT REPORTS OF AROUND 5.75 BLN SWISS FRANCS WORTH OF RUSSIAN ASSETS COVERED BY SWISS SANCTIONS,tag:reuters.com,2022:newsml_MT1ALTZ8N2RV0222:1226616316,en,T,1,SWISS GOVERNMENT SAYS HAS GOT REPORTS OF AROUND 5.75 BLN SWISS F,Thomson Reuters,1226616316
+STK567,24/03/2022 10:33:44,[
+  "RU";
+  "BG";
+  "UA"
+],tag:reuters.com,2022:newsml_MT1ALTL5N2VR3E51,BULGARIA WILL RECALL ITS AMBASSADOR TO RUSSIA FOR CONSULTATIONS- PM PETKOV,tag:reuters.com,2022:newsml_MT1ALTL5N2VR3E51:1358120023,en,T,1,BULGARIA WILL RECALL ITS AMBASSADOR TO RUSSIA FOR CONSULTATIONS-,Thomson Reuters,1358120023
+STK567,24/03/2022 10:33:35,GB,tag:reuters.com,2022:newsml_S8N2TY01B,UK government to set out new legislative agenda on May 10,tag:reuters.com,2022:newsml_S8N2TY01B:388779987,en,T,2,BRITAIN-POLITICS/PARLIAMENT (URGENT),Thomson Reuters,388779987
+STK567,24/03/2022 10:30:42,[
+  "GB";
+  "FR";
+  "DE"
+],tag:reuters.com,2022:newsml_L2N2VR0JK,UPDATE 1-Euro zone March business growth strong but outlook darkens -PMI,tag:reuters.com,2022:newsml_L2N2VR0JK:920133384,en,T,3,EUROZONE-ECONOMY/PMI (UPDATE 1),Thomson Reuters,920133384
+STK567,24/03/2022 10:30:07,[
+  "UA";
+  "PL"
+],tag:reuters.com,2022:newsml_L2N2VR0N5,UPDATE 1-Polish PM proposes personal income tax rate cut,tag:reuters.com,2022:newsml_L2N2VR0N5:1924164582,en,T,3,POLAND-ECONOMY/TAX (UPDATE 1),Thomson Reuters,1924164582
+STK567,24/03/2022 10:29:52,[
+  "RU";
+  "FR"
+],tag:reuters.com,2022:newsml_L5N2VR2XB,UPDATE 1-Russia's Avtovaz to make new car models after Renault suspends Moscow plant,tag:reuters.com,2022:newsml_L5N2VR2XB:1546390315,en,T,3,RUSSIA-AVTOVAZ/ (UPDATE 1),Thomson Reuters,1546390315
+STK567,24/03/2022 10:27:56,[
+  "RU";
+  "SE";
+  "UA"
+],tag:reuters.com,2022:newsml_S3N2TT00A,Zelenskiy says Ukraine deserves to be full member of EU,tag:reuters.com,2022:newsml_S3N2TT00A:1349433727,en,T,2,UKRAINE-CRISIS/ZELENSKIY-SWEDEN (URGENT),Thomson Reuters,1349433727
+STK567,24/03/2022 10:26:32,[
+  "IR";
+  "QA";
+  "US"
+],tag:reuters.com,2022:newsml_L2N2VQ24G,UPDATE 2-Iran's Revolutionary Guards tout missile prowess at Doha exhibition,tag:reuters.com,2022:newsml_L2N2VQ24G:1410295736,en,T,3,QATAR-DEFENCE/IRAN (UPDATE 2, PIX, TV),Thomson Reuters,1410295736
+STK567,24/03/2022 10:25:56,[
+  "CN";
+  "US"
+],tag:reuters.com,2022:newsml_L2N2VR05Y,UPDATE 4-China examines cockpit voice recorder from crashed airliner,tag:reuters.com,2022:newsml_L2N2VR05Y:2076076892,en,T,3,CHINA-CRASH/ (UPDATE 4, PIX, TV),Thomson Reuters,2076076892
+STK567,24/03/2022 10:24:34,GB,tag:reuters.com,2022:newsml_MT1ALTS8N2TY01B2,UK STATE OPENING OF PARLIAMENT WILL TAKE PLACE ON TUESDAY 10 MAY,tag:reuters.com,2022:newsml_MT1ALTS8N2TY01B2:1160245630,en,T,1,UK STATE OPENING OF PARLIAMENT WILL TAKE PLACE ON TUESDAY 10 MAY,Thomson Reuters,1160245630
+STK567,24/03/2022 10:21:11,[
+  "AU";
+  "PK";
+  "GB"
+],tag:reuters.com,2022:newsml_L2N2VR0DQ,UPDATE 1-Cricket-Khawaja brings up hundred as Australia take firm control in Lahore,tag:reuters.com,2022:newsml_L2N2VR0DQ:1093530136,en,T,3,CRICKET-TEST-PAK-AUS/ (UPDATE 1),Thomson Reuters,1093530136
+STK567,24/03/2022 10:18:53,[
+  "JP";
+  "US"
+],tag:reuters.com,2022:newsml_L3N2VR2FX,Japan earthquake to cost insurers between $2 bln and $4 bln - Verisk,tag:reuters.com,2022:newsml_L3N2VR2FX:743885203,en,T,3,JAPAN-QUAKE/INSURANCE,Thomson Reuters,743885203
+STK567,24/03/2022 10:17:26,[
+  "RU";
+  "SE";
+  "UA"
+],tag:reuters.com,2022:newsml_MT1ALTS3N2TT00A2,UKRAINE'S ZELENSKIY SAYS   WE HAVE SHOWN THAT WE DESERVE TO BE FULL MEMBERS OF EU  - ADDRESS TO SWEDISH PARLIAMENT,tag:reuters.com,2022:newsml_MT1ALTS3N2TT00A2:1476932116,en,T,1,UKRAINE'S ZELENSKIY SAYS   WE HAVE SHOWN THAT WE DESERVE TO BE F,Thomson Reuters,1476932116
+STK567,24/03/2022 10:16:28,[
+  "RU";
+  "BY";
+  "FR";
+  "DE";
+  "US";
+  "UA";
+  "PL"
+],tag:reuters.com,2022:newsml_L5N2VR20X,UPDATE 2-Renault shares down on plans to halt Moscow plant, assess Avtovaz stake,tag:reuters.com,2022:newsml_L5N2VR20X:1503996486,en,T,3,UKRAINE-CRISIS/RENAULT-STOCKS (UPDATE 2),Thomson Reuters,1503996486
+STK567,24/03/2022 10:14:38,[
+  "RU";
+  "UA";
+  "PL"
+],tag:reuters.com,2022:newsml_L2N2VR0LU,UPDATE 1-Russian ambassador says Poland blocked his embassy's bank accounts,tag:reuters.com,2022:newsml_L2N2VR0LU:1251639363,en,T,3,UKRAINE-CRISIS/RUSSIA-POLAND (UPDATE 1),Thomson Reuters,1251639363
+STK567,24/03/2022 10:12:24,[
+  "RU";
+  "SRB";
+  "US";
+  "UA"
+],tag:reuters.com,2022:newsml_R4N2V704B,Kremlin says Serbian concerns about rouble gas payments are a Russian priority,tag:reuters.com,2022:newsml_R4N2V704B:437840729,en,T,2,UKRAINE-CRISIS/RUSSIA-SERBIA (URGENT),Thomson Reuters,437840729
+STK567,24/03/2022 10:10:27,[
+  "RU";
+  "GB";
+  "US";
+  "UA"
+],tag:reuters.com,2022:newsml_L5N2VR2U5,FACTBOX-UK imposes new sanctions on Russian elites and businesses,tag:reuters.com,2022:newsml_L5N2VR2U5:1803783322,en,T,3,UKRAINE-CRISIS/BRITAIN-SANCTIONS (FACTBOX),Thomson Reuters,1803783322
+STK567,24/03/2022 10:07:23,[
+  "RU";
+  "US";
+  "UA"
+],tag:reuters.com,2022:newsml_R4N2V704C,Kremlin says Russia's latest expulsion of U.S. diplomats is forced measure,tag:reuters.com,2022:newsml_R4N2V704C:1261265361,en,T,2,UKRAINE-CRISIS/RUSSIA-DIPLOMATS-KREMLIN (URGENT),Thomson Reuters,1261265361
+STK567,24/03/2022 10:02:02,[
+  "RU";
+  "US";
+  "UA"
+],tag:reuters.com,2022:newsml_R4N2V703X,Kremlin says Russian billionaire Abramovich played early role in Ukraine peace talks,tag:reuters.com,2022:newsml_R4N2V703X:1420411700,en,T,2,UKRAINE-CRISIS/RUSSIA-ABRAMOVICH,Thomson Reuters,1420411700
+STK567,24/03/2022 10:01:07,[
+  "JP";
+  "US"
+],tag:reuters.com,2022:newsml_L2N2VR0EJ,UPDATE 1-U.S. and Japan strike deal on beef tariffs,tag:reuters.com,2022:newsml_L2N2VR0EJ:1824516435,en,T,3,USA-TRADE/JAPAN (UPDATE 1),Thomson Reuters,1824516435
+STK567,24/03/2022 10:00:11,[
+  "RU";
+  "US";
+  "UA"
+],tag:reuters.com,2022:newsml_MT1ALTR4N2V704C2,KREMLIN SAYS ITS FRESH EXPULSION OF U.S. DIPLOMATS IS A FORCED MEASURE,tag:reuters.com,2022:newsml_MT1ALTR4N2V704C2:1360059459,en,T,1,KREMLIN SAYS ITS FRESH EXPULSION OF U.S. DIPLOMATS IS A FORCED M,Thomson Reuters,1360059459
+STK567,24/03/2022 10:00:10,[
+  "RU";
+  "SRB";
+  "US";
+  "UA"
+],tag:reuters.com,2022:newsml_MT1ALTR4N2V704B4,KREMLIN SAYS SERBIA'S VUCIC IS RIGHT THAT THERE COULD BE PROBLEMS, ACCUSES BULGARIA OF TAKING 'UNFRIENDLY STEPS' TOWARDS RUSSIA,tag:reuters.com,2022:newsml_MT1ALTR4N2V704B4:1506713730,en,T,1,KREMLIN SAYS SERBIA'S VUCIC IS RIGHT THAT THERE COULD BE PROBLEM,Thomson Reuters,1506713730
+STK567,24/03/2022 10:00:06,[
+  "RU";
+  "SRB";
+  "US";
+  "UA"
+],tag:reuters.com,2022:newsml_MT1ALTR4N2V704B3,KREMLIN SAYS SERBIA'S CONCERNS ABOUT ROUBLE GAS PAYMENTS ARE A PRIORITY FOR RUSSIA,tag:reuters.com,2022:newsml_MT1ALTR4N2V704B3:202004180,en,T,1,KREMLIN SAYS SERBIA'S CONCERNS ABOUT ROUBLE GAS PAYMENTS ARE A P,Thomson Reuters,202004180
+STK567,24/03/2022 10:00:06,,tag:reuters.com,2022:newsml_L3N2VR27Q,REUTERS NEWS SCHEDULE AT 6 a.m. ET/10 a.m. GMT,tag:reuters.com,2022:newsml_L3N2VR27Q:642022030,en,T,3,REUTERS-SCHEDULE/,Thomson Reuters,642022030
+STK567,24/03/2022 10:00:05,[
+  "RU";
+  "US";
+  "UA"
+],tag:reuters.com,2022:newsml_MT1ALTR4N2V703X8,KREMLIN SAYS TALKS ARE NOW BEING HANDLED BY THE RUSSIAN AND UKRAINIAN SIDES,tag:reuters.com,2022:newsml_MT1ALTR4N2V703X8:100110277,en,T,1,KREMLIN SAYS TALKS ARE NOW BEING HANDLED BY THE RUSSIAN AND UKRA,Thomson Reuters,100110277
+STK567,24/03/2022 10:00:03,[
+  "RU";
+  "US";
+  "UA"
+],tag:reuters.com,2022:newsml_MT1ALTR4N2V703X7,KREMLIN, ASKED WHY RUSSIAN DEFENCE MINISTER SHOIGU HAS NOT APPEARED IN PUBLIC FOR A WHILE, SAYS HE HAS A LOT ON HIS PLATE BECAUSE OF UKRAINE, NOW IS NOT RIGHT TIME FOR MEDIA ACTIVITY,tag:reuters.com,2022:newsml_MT1ALTR4N2V703X7:764943188,en,T,1,KREMLIN, ASKED WHY RUSSIAN DEFENCE MINISTER SHOIGU HAS NOT APPEA,Thomson Reuters,764943188
+STK567,24/03/2022 10:00:02,[
+  "RU";
+  "US";
+  "UA"
+],tag:reuters.com,2022:newsml_MT1ALTR4N2V703X6,KREMLIN SAYS MOST NATO MEMBER STATES SUFFER FROM A HYSTERICAL AND INADEQUATE UNDERSTANDING OF WHAT IS GOING ON IN UKRAINE,tag:reuters.com,2022:newsml_MT1ALTR4N2V703X6:1307245740,en,T,1,KREMLIN SAYS MOST NATO MEMBER STATES SUFFER FROM A HYSTERICAL AN,Thomson Reuters,1307245740
+STK567,24/03/2022 10:00:01,[
+  "RU";
+  "US";
+  "UA"
+],tag:reuters.com,2022:newsml_MT1ALTR4N2V703X5,KREMLIN SAYS BUSINESSMAN ROMAN ABRAMOVICH PLAYED AN EARLY ROLE IN RUSSIA-UKRAINE PEACE TALKS,tag:reuters.com,2022:newsml_MT1ALTR4N2V703X5:1901679363,en,T,1,KREMLIN SAYS BUSINESSMAN ROMAN ABRAMOVICH PLAYED AN EARLY ROLE I,Thomson Reuters,1901679363
+STK567,24/03/2022 10:00:00,US,tag:reuters.com,2022:newsml_L2N2VE064,Oscars face a make-or-break moment to build audience,tag:reuters.com,2022:newsml_L2N2VE064:1571636155,en,T,3,AWARDS-OSCARS/SHOW (PIX, TV),Thomson Reuters,1571636155
+STK567,24/03/2022 10:00:00,[
+  "ZA";
+  "RU";
+  "HU";
+  "GH";
+  "DE";
+  "UA";
+  "NG"
+],tag:reuters.com,2022:newsml_L5N2VI5IP,African students wonder what next after Ukraine war upends education,tag:reuters.com,2022:newsml_L5N2VI5IP:244852056,en,T,3,UKRAINE-CRISIS/AFRICA-STUDENTS (TV, PIX),Thomson Reuters,244852056
+STK567,24/03/2022 10:00:00,US,tag:reuters.com,2022:newsml_L2N2VQ249,Trump to urge court to block House from getting his tax returns,tag:reuters.com,2022:newsml_L2N2VQ249:1794762940,en,T,3,USA-TRUMP/TAXES,Thomson Reuters,1794762940
+STK567,24/03/2022 09:59:36,PK,tag:reuters.com,2022:newsml_L2N2VR0DB,UPDATE 1-Pakistan PM Khan says he won't resign ahead of no-confidence move,tag:reuters.com,2022:newsml_L2N2VR0DB:769451488,en,T,3,PAKISTAN-POLITICS/ (UPDATE 1, PIX),Thomson Reuters,769451488
+STK567,24/03/2022 09:57:36,GB,tag:reuters.com,2022:newsml_L5N2VR2I9,UK's Sunak under fire over response to cost of living crisis,tag:reuters.com,2022:newsml_L5N2VR2I9:405586404,en,T,3,BRITAIN-BUDGET/ (PIX),Thomson Reuters,405586404
+STK567,24/03/2022 09:54:22,SO,tag:reuters.com,2022:newsml_L5N2VR2CV,Death toll from Somalia attack that killed lawmaker rises to 15 - state TV,tag:reuters.com,2022:newsml_L5N2VR2CV:1711370153,en,T,3,SOMALIA-SECURITY/ (PIX),Thomson Reuters,1711370153
+STK567,24/03/2022 09:54:10,[
+  "RU";
+  "UA"
+],tag:reuters.com,2022:newsml_L5N2VR2XE,Lawmaker Solskyi accepts offer to become Ukraine's agriculture minister,tag:reuters.com,2022:newsml_L5N2VR2XE:558928936,en,T,2,UKRAINE-CRISIS/AGRICULTURE-SOLSKYI (URGENT),Thomson Reuters,558928936
+STK567,24/03/2022 09:53:55,PL,tag:reuters.com,2022:newsml_W8N2IF02E,Polish PM proposes personal income tax rate cut,tag:reuters.com,2022:newsml_W8N2IF02E:388395517,en,T,2,POLAND-ECONOMY/TAX (URGENT),Thomson Reuters,388395517
+STK567,24/03/2022 09:51:49,GB,tag:reuters.com,2022:newsml_L3N2VR241,UPDATE 1-Oil boost lifts UK's FTSE 100, economy worries weigh on midcap stocks,tag:reuters.com,2022:newsml_L3N2VR241:1883657375,en,T,3,BRITAIN-STOCKS/ (UPDATE 1),Thomson Reuters,1883657375
+STK567,24/03/2022 09:50:59,RU,tag:reuters.com,2022:newsml_L2N2VR0EU,UPDATE 2-Rouble recovers, stocks soar as trade resumes after month-long hiatus,tag:reuters.com,2022:newsml_L2N2VR0EU:944871419,en,T,3,RUSSIA-MARKETS/ (UPDATE 2, TV, PIX),Thomson Reuters,944871419
+STK567,24/03/2022 09:48:30,[
+  "KR";
+  "KP";
+  "US"
+],tag:reuters.com,2022:newsml_FWN2VR04C,White House condemns N. Korea test of long-range ballistic missile,tag:reuters.com,2022:newsml_FWN2VR04C:852593345,en,T,2,NORTHKOREA-MISSILES/USA-WHITE HOUSE (URGENT),Thomson Reuters,852593345
+STK567,24/03/2022 09:48:24,[
+  "RU";
+  "UA"
+],tag:reuters.com,2022:newsml_MT1ALTL5N2VR2XE1,SENIOR LAWMAKER MYKOLA SOLSKYI TELLS REUTERS HE HAS AGREED TO ACCEPT OFFER TO BE UKRAINE'S AGRICULTURE MINISTER,tag:reuters.com,2022:newsml_MT1ALTL5N2VR2XE1:509509826,en,T,1,SENIOR LAWMAKER MYKOLA SOLSKYI TELLS REUTERS HE HAS AGREED TO AC,Thomson Reuters,509509826
+STK567,24/03/2022 09:46:50,PL,tag:reuters.com,2022:newsml_MT1ALTW8N2IF02J2,POLAND'S PRIME MINISTER MINISTER SAYS TAX REFORMS RELATED TO CONFLICT IN UKRAINE COULD CAUSE BUDGET DEFICIT TO RISE BY 0.5 PERCENTAGE POINTS,tag:reuters.com,2022:newsml_MT1ALTW8N2IF02J2:1682796495,en,T,1,POLAND'S PRIME MINISTER MINISTER SAYS TAX REFORMS RELATED TO CON,Thomson Reuters,1682796495
+STK567,24/03/2022 09:46:09,[
+  "NO";
+  "UA"
+],tag:reuters.com,2022:newsml_L5N2VR2KI,UPDATE 3-Norway hikes interest rates, plans steeper curve ahead,tag:reuters.com,2022:newsml_L5N2VR2KI:1969016038,en,T,3,NORWAY-ECONOMY/RATES (UPDATE 3),Thomson Reuters,1969016038
+STK567,24/03/2022 09:45:51,[
+  "RU";
+  "NO";
+  "UA"
+],tag:reuters.com,2022:newsml_L5N2VR2EY,UPDATE 2-Stoltenberg to extend NATO term by one year amid Ukraine war, say reports,tag:reuters.com,2022:newsml_L5N2VR2EY:2055052006,en,T,3,UKRAINE-CRISIS/NATO-STOLTENBERG (UPDATE 2, PIX),Thomson Reuters,2055052006
+STK567,24/03/2022 09:43:21,[
+  "RU";
+  "US";
+  "UA"
+],tag:reuters.com,2022:newsml_L2N2VR0BG,UPDATE 3-'We will see who is our friend', Zelenskiy says as Western leaders meet,tag:reuters.com,2022:newsml_L2N2VR0BG:1294679643,en,T,3,UKRAINE-CRISIS/NATO (UPDATE 3, PIX, TV),Thomson Reuters,1294679643
+STK567,24/03/2022 09:41:57,[
+  "RU";
+  "BE";
+  "UA"
+],tag:reuters.com,2022:newsml_L5N2VR2MM,UPDATE 1-Belgium to inject another billion euros into its army - L'Echo,tag:reuters.com,2022:newsml_L5N2VR2MM:2132008813,en,T,3,UKRAINE-CRISIS/BELGIUM-DEFENSE (UPDATE 1),Thomson Reuters,2132008813
+STK567,24/03/2022 09:41:34,[
+  "CH";
+  "IT";
+  "GB";
+  "FR";
+  "DE";
+  "ES"
+],tag:reuters.com,2022:newsml_L3N2VR20E,UPDATE 1-European shares subdued as Ukraine worries deepen,tag:reuters.com,2022:newsml_L3N2VR20E:1512233728,en,T,3,EUROPE-STOCKS/ (UPDATE 1),Thomson Reuters,1512233728
+STK567,24/03/2022 09:41:08,[
+  "KR";
+  "KP";
+  "US"
+],tag:reuters.com,2022:newsml_MT1ALTFWN2VR04C7,WHITE HOUSE SAYS PYONGYANG MUST IMMEDIATELY CEASE ITS DESTABILIZING ACTIONS,tag:reuters.com,2022:newsml_MT1ALTFWN2VR04C7:309806260,en,T,1,WHITE HOUSE SAYS PYONGYANG MUST IMMEDIATELY CEASE ITS DESTABILIZ,Thomson Reuters,309806260
+STK567,24/03/2022 09:40:35,[
+  "KR";
+  "KP";
+  "US"
+],tag:reuters.com,2022:newsml_MT1ALTFWN2VR04C5,WHITE HOUSE-DPRK'S LAUNCH IS VIOLATION OF MULTIPLE UN SECURITY COUNCIL RESOLUTIONS, RAISES TENSIONS & RISKS DESTABILIZING SECURITY SITUATION IN REGION,tag:reuters.com,2022:newsml_MT1ALTFWN2VR04C5:1265240564,en,T,1,WHITE HOUSE-DPRK'S LAUNCH IS VIOLATION OF MULTIPLE UN SECURITY C,Thomson Reuters,1265240564
+STK567,24/03/2022 09:39:01,[
+  "KR";
+  "KP";
+  "US"
+],tag:reuters.com,2022:newsml_MT1ALTFWN2VR04C2,WHITE HOUSE SAYS UNITED STATES STRONGLY CONDEMNS DEMOCRATIC PEOPLE'S REPUBLIC OF KOREA (DPRK) FOR ITS TEST OF A LONG-RANGE BALLISTIC MISSILE,tag:reuters.com,2022:newsml_MT1ALTFWN2VR04C2:1811621568,en,T,1,WHITE HOUSE SAYS UNITED STATES STRONGLY CONDEMNS DEMOCRATIC PEOP,Thomson Reuters,1811621568
+STK567,24/03/2022 09:35:08,,tag:reuters.com,2022:newsml_MTZXEI3N737LE9,UPDATE 2-Australian Sheffield Shield Scoreboard,tag:reuters.com,2022:newsml_MTZXEI3N737LE9:2,en,T,4,CRICKET-AUSTRALIA/SCOREBOARD (UPDATE 2),Opta Sports Data,2
+STK567,24/03/2022 09:32:27,[
+  "RU";
+  "BY";
+  "UA";
+  "PL"
+],tag:reuters.com,2022:newsml_R4N2V7032,Russian ambassador says Poland has blocked embassy's bank accounts - RIA,tag:reuters.com,2022:newsml_R4N2V7032:822113946,en,T,2,UKRAINE-CRISIS/RUSSIA-POLAND (URGENT),Thomson Reuters,822113946
+STK567,24/03/2022 09:32:03,[
+  "RU";
+  "GB";
+  "US";
+  "UA"
+],tag:reuters.com,2022:newsml_L5N2VR2MH,UPDATE 2-UK sanctions Gazprombank, Alfa Bank and shipping firm Sovcomflot,tag:reuters.com,2022:newsml_L5N2VR2MH:618848763,en,T,3,UKRAINE-CRISIS/BRITAIN-SANCTIONS (UPDATE 2),Thomson Reuters,618848763
+STK567,24/03/2022 09:30:11,[
+  "SRB";
+  "AT";
+  "GB";
+  "FR";
+  "NO";
+  "IE";
+  "PL"
+],tag:reuters.com,2022:newsml_L2N2VR0JR,UPDATE 1-Soccer-Lyon forward Hegerberg returns to Norway squad after five years,tag:reuters.com,2022:newsml_L2N2VR0JR:1785094759,en,T,3,SOCCER-WORLDCUP-NOR/WOMEN (UPDATE 1),Thomson Reuters,1785094759
+STK567,24/03/2022 09:27:39,[
+  "KR";
+  "KP";
+  "US"
+],tag:reuters.com,2022:newsml_L3N2VR2AY,U.S. military condemns N.Korea missile launch,tag:reuters.com,2022:newsml_L3N2VR2AY:881212015,en,T,2,NORTHKOREA-MISSILES/USA (URGENT),Thomson Reuters,881212015
+STK567,24/03/2022 09:27:04,[
+  "KR";
+  "KP";
+  "JP";
+  "US"
+],tag:reuters.com,2022:newsml_L2N2VR09S,WRAPUP 5-N.Korea returns to long-range launches with largest ICBM test,tag:reuters.com,2022:newsml_L2N2VR09S:1928596457,en,T,3,NORTHKOREA-MISSILES/ (WRAPUP 5, TV, PIX),Thomson Reuters,1928596457
+STK567,24/03/2022 09:25:17,MT,tag:reuters.com,2022:newsml_L5N2VQ3IP,Malta's Labour expected to win again despite scandals,tag:reuters.com,2022:newsml_L5N2VQ3IP:403040364,en,T,3,MALTA-POLITICS/ELECTION (PIX),Thomson Reuters,403040364
+STK567,24/03/2022 09:24:55,[
+  "RU";
+  "BY";
+  "US";
+  "UA";
+  "PL"
+],tag:reuters.com,2022:newsml_MT1ALTR4N2V70322,RUSSIAN AMBASSADOR SAYS POLAND HAS BLOCKED EMBASSY'S BANK ACCOUNTS - RIA,tag:reuters.com,2022:newsml_MT1ALTR4N2V70322:1342114729,en,T,1,RUSSIAN AMBASSADOR SAYS POLAND HAS BLOCKED EMBASSY'S BANK ACCOUN,Thomson Reuters,1342114729
+STK567,24/03/2022 09:24:23,[
+  "RU";
+  "BY";
+  "FR";
+  "DE";
+  "US";
+  "UA";
+  "PL"
+],tag:reuters.com,2022:newsml_MT1ALTS8N2V30954,FRENCH GOVERNMENT SPOKESPERSON SAYS RENAULT DECISION ON MOSCOW PLANT WAS NOT A DECISION BY THE FRENCH STATE,tag:reuters.com,2022:newsml_MT1ALTS8N2V30954:1976210833,en,T,1,FRENCH GOVERNMENT SPOKESPERSON SAYS RENAULT DECISION ON MOSCOW P,Thomson Reuters,1976210833
+STK567,24/03/2022 09:23:42,[
+  "RU";
+  "BY";
+  "FR";
+  "DE";
+  "US";
+  "UA";
+  "PL"
+],tag:reuters.com,2022:newsml_MT1ALTS8N2V30952,FRENCH GOVERNMENT SPOKESPERSON SAYS UP TO FRENCH COMPANIES TO DECIDE ON RUSSIA PRESENCE AS LONG AS THEY COMPLY WITH SANCTIONS,tag:reuters.com,2022:newsml_MT1ALTS8N2V30952:1824888517,en,T,1,FRENCH GOVERNMENT SPOKESPERSON SAYS UP TO FRENCH COMPANIES TO DE,Thomson Reuters,1824888517
+STK567,24/03/2022 09:22:35,[
+  "RU";
+  "US";
+  "UA"
+],tag:reuters.com,2022:newsml_L2N2VR03A,TOP WRAP 4-Western leaders discuss tougher action on Russia as Ukraine war enters second month,tag:reuters.com,2022:newsml_L2N2VR03A:298818447,en,T,3,UKRAINE-CRISIS/ (TOP WRAP 4, PIX, TV, GRAPHIC),Thomson Reuters,298818447
+STK567,24/03/2022 09:22:33,[
+  "KR";
+  "KP"
+],tag:reuters.com,2022:newsml_MT1ALTL3N2VR2AY1,U.S. MILITARY CONDEMNS N.KOREA MISSILE LAUNCH - INDOPACOM,tag:reuters.com,2022:newsml_MT1ALTL3N2VR2AY1:1207104465,en,T,1,U.S. MILITARY CONDEMNS N.KOREA MISSILE LAUNCH - INDOPACOM,Thomson Reuters,1207104465
+STK567,24/03/2022 09:22:06,[
+  "RU";
+  "SY";
+  "SA";
+  "IL";
+  "YE";
+  "IR";
+  "LY";
+  "CN";
+  "TR";
+  "IQ";
+  "US";
+  "UA";
+  "AE"
+],tag:reuters.com,2022:newsml_L3N2VR29T,COLUMN-As world watches Ukraine, Mideast charts a new path: Peter Apps,tag:reuters.com,2022:newsml_L3N2VR29T:302588450,en,T,3,APPS-MIDEAST/COLUMN (COLUMN, PIX),Thomson Reuters,302588450
+STK567,24/03/2022 09:21:03,[
+  "KW";
+  "IQ"
+],tag:reuters.com,2022:newsml_MT1ALTS8N2VC0252,KUWAIT FUND SIGNS LOAN AGREEMENT WITH GCC INTERCONNECTION AUTHORITY FOR 35 MLN DINARS - STATEMENT,tag:reuters.com,2022:newsml_MT1ALTS8N2VC0252:892823113,en,T,1,KUWAIT FUND SIGNS LOAN AGREEMENT WITH GCC INTERCONNECTION AUTHOR,Thomson Reuters,892823113
+STK567,24/03/2022 09:19:26,[
+  "RU";
+  "UA"
+],tag:reuters.com,2022:newsml_L2N2VR0JO,UPDATE 1-Ukrainian agriculture minister submits resignation - aide,tag:reuters.com,2022:newsml_L2N2VR0JO:1947987366,en,T,3,UKRAINE-CRISIS/AGRICULTURE-MINISTER (UPDATE 1, PIX),Thomson Reuters,1947987366
+STK567,24/03/2022 09:18:05,[
+  "RU";
+  "GB";
+  "UA"
+],tag:reuters.com,2022:newsml_MT1ALTS8N2V60638,UK FOREIGN SECRETARY LIZ TRUSS SAYS WE WILL KEEP TIGHTENING THE SCREW ON THE RUSSIAN ECONOMY TO HELP ENSURE HE FAILS IN UKRAINE. THERE WILL BE NO LET-UP,tag:reuters.com,2022:newsml_MT1ALTS8N2V60638:499522603,en,T,1,UK FOREIGN SECRETARY LIZ TRUSS SAYS WE WILL KEEP TIGHTENING THE,Thomson Reuters,499522603
+STK567,24/03/2022 09:17:43,[
+  "RU";
+  "GB";
+  "UA"
+],tag:reuters.com,2022:newsml_MT1ALTS8N2V60636,UK SAYS LATEST SANCTIONS WILL BRING THE TOTAL GLOBAL ASSET VALUE OF THE BANKS THE UK HAS SANCTIONED SINCE THE INVASION TO £500BN AND THE NET WORTH OF THE OLIGARCHS AND FAMILY MEMBERS IN EXCESS OF £150BN,tag:reuters.com,2022:newsml_MT1ALTS8N2V60636:1976412847,en,T,1,UK SAYS LATEST SANCTIONS WILL BRING THE TOTAL GLOBAL ASSET VALUE,Thomson Reuters,1976412847
+STK567,24/03/2022 09:17:02,[
+  "RU";
+  "GB";
+  "UA"
+],tag:reuters.com,2022:newsml_MT1ALTS8N2V60634,UK SAYS IT HAS SANCTIONED OIL TYCOON EUGENE SHVIDLER, FOUNDER OF TINKOFF BANK OLEG TINKOV, AND HERMAN GREF, THE CEO OF RUSSIA’S LARGEST BANK SBERBANK,tag:reuters.com,2022:newsml_MT1ALTS8N2V60634:1165787102,en,T,1,UK SAYS IT HAS SANCTIONED OIL TYCOON EUGENE SHVIDLER, FOUNDER OF,Thomson Reuters,1165787102
+STK567,24/03/2022 09:16:52,[
+  "RU";
+  "GB";
+  "US";
+  "UA"
+],tag:reuters.com,2022:newsml_L5N2VR2MH,UPDATE 1-UK sanctions Gazprombank, Alfa Bank and shipping firm Sovcomflot,tag:reuters.com,2022:newsml_L5N2VR2MH:632632170,en,T,3,UKRAINE-CRISIS/BRITAIN-SANCTIONS (UPDATE 1),Thomson Reuters,632632170
+STK567,24/03/2022 09:16:21,PL,tag:reuters.com,2022:newsml_MT1ALTW8N2IF02E4,POLAND'S PRIME MINISTER SAYS WILL GET RID OF TAX EXEMPTION FOR MIDDLE CLASS,tag:reuters.com,2022:newsml_MT1ALTW8N2IF02E4:30069715,en,T,1,POLAND'S PRIME MINISTER SAYS WILL GET RID OF TAX EXEMPTION FOR M,Thomson Reuters,30069715
+STK567,24/03/2022 09:15:52,[
+  "RU";
+  "GB";
+  "UA"
+],tag:reuters.com,2022:newsml_MT1ALTS8N2V60632,UK LATEST SANCTIONS TARGET THOSE AIDING RUSSIA’S INVASION OF UKRAINE INCLUDING THE WAGNER GROUP, MULTIPLE DEFENCE COMPANIES AND RUSSIAN RAILWAYS - FOREIGN OFFICE,tag:reuters.com,2022:newsml_MT1ALTS8N2V60632:1960904321,en,T,1,UK LATEST SANCTIONS TARGET THOSE AIDING RUSSIA’S INVASION OF UKR,Thomson Reuters,1960904321
+STK567,24/03/2022 09:14:47,[
+  "IT";
+  "GB"
+],tag:reuters.com,2022:newsml_L5N2VR24K,Italian police seize documents in Juventus accounting probe -source,tag:reuters.com,2022:newsml_L5N2VR24K:2137998473,en,T,3,JUVENTUS-PROBE/SEARCHES,Thomson Reuters,2137998473
+STK567,24/03/2022 09:14:36,PL,tag:reuters.com,2022:newsml_MT1ALTW8N2IF02E2,POLAND'S PRIME MINISTER MORAWIECKI SAYS  WILL PRESENT LEGISLATION TO LOWER TAX FROM 17% TO 12%,tag:reuters.com,2022:newsml_MT1ALTW8N2IF02E2:428136601,en,T,1,POLAND'S PRIME MINISTER MORAWIECKI SAYS  WILL PRESENT LEGISLATIO,Thomson Reuters,428136601
+STK567,24/03/2022 09:13:12,CH,tag:reuters.com,2022:newsml_L5N2VR2IL,Swiss police probing four deaths, one badly injured, after possible group jump,tag:reuters.com,2022:newsml_L5N2VR2IL:1610288127,en,T,3,SWISS-MONTREUX/,Thomson Reuters,1610288127
+STK567,24/03/2022 09:11:14,[
+  "CH";
+  "AU";
+  "GB";
+  "JP";
+  "CA";
+  "DE";
+  "US"
+],tag:reuters.com,2022:newsml_L2N2VR0IL,FOREX-Dollar firms on hawkish Fed remarks, yen hits lowest since 2015,tag:reuters.com,2022:newsml_L2N2VR0IL:1839611362,en,T,3,GLOBAL-FOREX/ (UPDATE 2, PIX),Thomson Reuters,1839611362
+STK567,24/03/2022 09:10:11,NO,tag:reuters.com,2022:newsml_L5N2VR2KI,UPDATE 2-Norway hikes interest rates, plans steeper curve ahead,tag:reuters.com,2022:newsml_L5N2VR2KI:1434736231,en,T,3,NORWAY-ECONOMY/RATES (UPDATE 2),Thomson Reuters,1434736231
+STK567,24/03/2022 09:09:33,[
+  "MM";
+  "US"
+],tag:reuters.com,2022:newsml_P9N2TU00G,Myanmar army denies Rohingya genocide, says some individuals may have committed crimes,tag:reuters.com,2022:newsml_P9N2TU00G:924552783,en,T,2,USA-DIPLOMACY/MYANMAR (URGENT),Thomson Reuters,924552783
+STK567,24/03/2022 09:09:33,[
+  "RU";
+  "GB";
+  "US";
+  "UA"
+],tag:reuters.com,2022:newsml_S8N2V6062,UK adds Gazprombank and Alfa Bank to sanctions list,tag:reuters.com,2022:newsml_S8N2V6062:2066140080,en,T,2,UKRAINE-CRISIS/BRITAIN-SANCTIONS (URGENT),Thomson Reuters,2066140080
+STK567,24/03/2022 09:06:45,NO,tag:reuters.com,2022:newsml_L5N2VR2KI,UPDATE 1-Norway hikes interest rates, plans steeper curve ahead,tag:reuters.com,2022:newsml_L5N2VR2KI:1590242107,en,T,3,NORWAY-ECONOMY/RATES (UPDATE 1),Thomson Reuters,1590242107
+STK567,24/03/2022 09:06:07,AU,tag:reuters.com,2022:newsml_L3N2VR20Z,Tennis-Grateful Australia to miss people's champion Barty,tag:reuters.com,2022:newsml_L3N2VR20Z:444524639,en,T,3,TENNIS-BARTY/ (TV, PIX),Thomson Reuters,444524639
+STK567,24/03/2022 09:04:38,[
+  "RU";
+  "GB";
+  "UA"
+],tag:reuters.com,2022:newsml_MT1ALTS8N2V60628,UK ADDS SOVCOMFLOT TO SANCTIONS LIST,tag:reuters.com,2022:newsml_MT1ALTS8N2V60628:1548603952,en,T,1,UK ADDS SOVCOMFLOT TO SANCTIONS LIST,Thomson Reuters,1548603952
+STK567,24/03/2022 09:04:06,[
+  "KR";
+  "KP";
+  "US"
+],tag:reuters.com,2022:newsml_S6N2FY00O,S.Korea conducts live-fire missile drill after N.Korea ICBM test,tag:reuters.com,2022:newsml_S6N2FY00O:1484461030,en,T,2,NORTHKOREA-MISSILES/SOUTHKOREA-TEST (URGENT),Thomson Reuters,1484461030
+STK567,24/03/2022 09:04:06,[
+  "RU";
+  "GB";
+  "UA"
+],tag:reuters.com,2022:newsml_MT1ALTS8N2V60626,UK ADDS GAZPROMBANK TO SANCTIONS LIST,tag:reuters.com,2022:newsml_MT1ALTS8N2V60626:1094330566,en,T,1,UK ADDS GAZPROMBANK TO SANCTIONS LIST,Thomson Reuters,1094330566
+STK567,24/03/2022 09:03:51,NO,tag:reuters.com,2022:newsml_APN0I8AZX,Norway hikes interest rates, plans steeper curve ahead,tag:reuters.com,2022:newsml_APN0I8AZX:1323660945,en,T,2,NORWAY-ECONOMY/RATES (URGENT),Thomson Reuters,1323660945
+STK567,24/03/2022 09:03:48,[
+  "RU";
+  "GB";
+  "US";
+  "UA"
+],tag:reuters.com,2022:newsml_MT1ALTS8N2V60624,UK ADDS ALFA-BANK JSC TO SANCTIONS LIST,tag:reuters.com,2022:newsml_MT1ALTS8N2V60624:537521780,en,T,1,UK ADDS ALFA-BANK JSC TO SANCTIONS LIST,Thomson Reuters,537521780
+STK567,24/03/2022 09:03:01,[
+  "SRB";
+  "AT";
+  "GB";
+  "FR";
+  "NO";
+  "IE";
+  "PL"
+],tag:reuters.com,2022:newsml_L3N2VR19W,Soccer-Hegerberg returns to Norway squad after five years,tag:reuters.com,2022:newsml_L3N2VR19W:854933865,en,T,3,SOCCER-WORLDCUP-NOR/WOMEN,Thomson Reuters,854933865
+STK567,24/03/2022 09:01:42,[
+  "RU";
+  "GB";
+  "BY";
+  "FR";
+  "US";
+  "UA"
+],tag:reuters.com,2022:newsml_L2N2VR0J8,Russia's Putin has crossed red line into barbarism, UK's Johnson,tag:reuters.com,2022:newsml_L2N2VR0J8:1441136220,en,T,3,UKRAINE-CRISIS/NATO-BRITAIN,Thomson Reuters,1441136220
+STK567,24/03/2022 09:01:15,[
+  "RU";
+  "GB";
+  "US";
+  "UA"
+],tag:reuters.com,2022:newsml_MT1ALTS8N2V60622,UK ADDS 59 NEW LISTINGS UNDER THE RUSSIA SANCTIONS REGIME AND 6 NEW LISTINGS UNDER THE BELARUS SANCTIONS,tag:reuters.com,2022:newsml_MT1ALTS8N2V60622:455755942,en,T,1,UK ADDS 59 NEW LISTINGS UNDER THE RUSSIA SANCTIONS REGIME AND 6,Thomson Reuters,455755942
+STK567,24/03/2022 09:00:00,[
+  "RU";
+  "GB";
+  "CN";
+  "US"
+],tag:reuters.com,2022:newsml_L5N2VQ3SS,New York widens lead over London in top finance centres index,tag:reuters.com,2022:newsml_L5N2VQ3SS:684208198,en,T,3,GLOBAL-FINANCE/ (PIX),Thomson Reuters,684208198
+STK567,24/03/2022 09:00:00,[
+  "QA";
+  "IN"
+],tag:reuters.com,2022:newsml_L3N2VR1DU,Soccer-India edtech firm BYJU'S named a sponsor of Qatar World Cup,tag:reuters.com,2022:newsml_L3N2VR1DU:1421830485,en,T,3,SOCCER-WORLDCUP/SPONSOR,Thomson Reuters,1421830485
+STK567,24/03/2022 09:00:00,GH,tag:reuters.com,2022:newsml_L5N2VH3VS,WIDER IMAGE-Meet the Ghanaian 'Skate Gal' inspiring girls to ride,tag:reuters.com,2022:newsml_L5N2VH3VS:804260762,en,T,3,GHANA-SKATEBOARDING/ (PIX, TV),Thomson Reuters,804260762
+STK567,24/03/2022 08:59:17,CN,tag:reuters.com,2022:newsml_L2N2VR0FZ,China, HK stocks fall on geopolitical tensions, hawkish Fed,tag:reuters.com,2022:newsml_L2N2VR0FZ:311674715,en,T,3,CHINA-STOCKS/CLOSE (UPDATE 1),Thomson Reuters,311674715
+STK567,24/03/2022 08:56:21,[
+  "KR";
+  "KP";
+  "US"
+],tag:reuters.com,2022:newsml_MT1ALTS6N2FY00O4,S.KOREA MILITARY SAYS READY AND CAPABLE OF PRECISION STRIKE AGAINST N.KOREA'S MISSILE LAUNCH LOCATION AND CONTROL SYSTEM IF NEEDED,tag:reuters.com,2022:newsml_MT1ALTS6N2FY00O4:103423439,en,T,1,S.KOREA MILITARY SAYS READY AND CAPABLE OF PRECISION STRIKE AGA,Thomson Reuters,103423439
+STK567,24/03/2022 08:55:11,[
+  "RU";
+  "NO";
+  "UA"
+],tag:reuters.com,2022:newsml_L5N2VR2EY,UPDATE 1-Stoltenberg to extend NATO term by one year amid Ukraine war, say reports,tag:reuters.com,2022:newsml_L5N2VR2EY:1683672586,en,T,3,UKRAINE-CRISIS/NATO-STOLTENBERG (UPDATE 1),Thomson Reuters,1683672586
+STK567,24/03/2022 08:54:38,[
+  "MM";
+  "US"
+],tag:reuters.com,2022:newsml_MT1ALTP9N2TU00G2,MYANMAR MILITARY DID NOT COMMIT GENOCIDE AGAINST ROHINGYA MUSLIMS IN 2017, BUT CRIMES MAY HAVE BEEN COMMITTED ON INDIVIDUAL LEVEL - SPOKESMAN,tag:reuters.com,2022:newsml_MT1ALTP9N2TU00G2:1826755372,en,T,1,MYANMAR MILITARY DID NOT COMMIT GENOCIDE AGAINST ROHINGYA MUSLIM,Thomson Reuters,1826755372
+STK567,24/03/2022 08:52:59,[
+  "RU";
+  "NO";
+  "UA"
+],tag:reuters.com,2022:newsml_L5N2VQ3AU,Stoltenberg to extend NATO term by one year amid Ukraine war, say reports,tag:reuters.com,2022:newsml_L5N2VQ3AU:215580267,en,T,2,UKRAINE-CRISIS/NATO-STOLTENBERG (URGENT),Thomson Reuters,215580267
+STK567,24/03/2022 08:52:35,[
+  "KR";
+  "KP";
+  "US"
+],tag:reuters.com,2022:newsml_MT1ALTS6N2FY00O2,S.KOREA FIRES MULTIPLE BALLISTIC AND GUIDED MISSILES AFTER N.KOREA ICBM LAUNCH - S.KOREA MILITARY,tag:reuters.com,2022:newsml_MT1ALTS6N2FY00O2:1139107958,en,T,1,S.KOREA FIRES MULTIPLE BALLISTIC AND GUIDED MISSILES AFTER N.KO,Thomson Reuters,1139107958
+STK567,24/03/2022 08:50:31,[
+  "RU";
+  "LT";
+  "UA"
+],tag:reuters.com,2022:newsml_S8N2VD0KZ,EU mulls further sanctions against Russia, Lithuania says,tag:reuters.com,2022:newsml_S8N2VD0KZ:1794933335,en,T,2,UKRAINE-CRISIS/NATO-LITHUANIA (URGENT),Thomson Reuters,1794933335
+STK567,24/03/2022 08:50:07,[
+  "RU";
+  "US";
+  "UA";
+  "IN"
+],tag:reuters.com,2022:newsml_L3N2VR1W3,India says U.S., Russia ties 'stand on their own merit' despite Ukraine war,tag:reuters.com,2022:newsml_L3N2VR1W3:402736967,en,T,3,UKRAINE-CRISIS/INDIA,Thomson Reuters,402736967
+STK567,24/03/2022 08:49:01,[
+  "KR";
+  "KP";
+  "JP";
+  "US"
+],tag:reuters.com,2022:newsml_L2N2VR09S,WRAPUP 4-N.Korea conducts largest ICBM test in return to long-range launches,tag:reuters.com,2022:newsml_L2N2VR09S:1895181271,en,T,3,NORTHKOREA-MISSILES/ (WRAPUP 4, TV, PIX),Thomson Reuters,1895181271
+STK567,24/03/2022 08:47:31,[
+  "UA";
+  "PL"
+],tag:reuters.com,2022:newsml_L5N2VR25L,Poland scraps most mask, quarantine rules,tag:reuters.com,2022:newsml_L5N2VR25L:618503051,en,T,3,HEALTH-CORONAVIRUS/POLAND-MASKS,Thomson Reuters,618503051
+STK567,24/03/2022 08:47:27,[
+  "RU";
+  "NO";
+  "UA"
+],tag:reuters.com,2022:newsml_MT1ALTL5N2VQ3AU1,NATO CHIEF STOLTENBERG TO PROLONG BY ONE-YEAR HIS TERM AS SECRETARY GENERAL - NORWAY'S TV2 CHANNEL, DAILY DAGENS NAERINGSLIV,tag:reuters.com,2022:newsml_MT1ALTL5N2VQ3AU1:2023645067,en,T,1,NATO CHIEF STOLTENBERG TO PROLONG BY ONE-YEAR HIS TERM AS SECRET,Thomson Reuters,2023645067
+STK567,24/03/2022 08:46:13,[
+  "RU";
+  "BY";
+  "FR";
+  "DE";
+  "US";
+  "UA";
+  "PL"
+],tag:reuters.com,2022:newsml_MT1ALTS8N2V30942,RENAULT SHARES PAIR LOSSES, NOW TRADING FLAT AFTER CO ANNOUNCED SUSPENSION OF MOSCOW PLANT,tag:reuters.com,2022:newsml_MT1ALTS8N2V30942:1863380645,en,T,1,RENAULT SHARES PAIR LOSSES, NOW TRADING FLAT AFTER CO ANNOUNCED,Thomson Reuters,1863380645
+STK567,24/03/2022 08:42:32,[
+  "IT";
+  "GR";
+  "AT";
+  "PT";
+  "FR";
+  "DE";
+  "BE";
+  "NL";
+  "IE";
+  "ES"
+],tag:reuters.com,2022:newsml_L5N2VR2A8,Euro zone bond yields fall, keep recent highs in view,tag:reuters.com,2022:newsml_L5N2VR2A8:213036773,en,T,3,EUROZONE-BONDS/,Thomson Reuters,213036773
+STK567,24/03/2022 08:41:29,RU,tag:reuters.com,2022:newsml_L2N2VR0EU,UPDATE 1-Rouble rallies, stocks soar as trade resumes after month-long hiatus,tag:reuters.com,2022:newsml_L2N2VR0EU:575848833,en,T,3,RUSSIA-MARKETS/ (UPDATE 1, TV, PIX),Thomson Reuters,575848833
+STK567,24/03/2022 08:40:04,ZA,tag:reuters.com,2022:newsml_L2N2VR0HP,AfDB commits $2.8 bln to support private investment in S.Africa,tag:reuters.com,2022:newsml_L2N2VR0HP:626378954,en,T,3,SAFRICA-ECONOMY/,Thomson Reuters,626378954
+STK567,24/03/2022 08:39:40,CN,tag:reuters.com,2022:newsml_P8N2ST01E,Hong Kong reports 13,074 new daily coronavirus infections,tag:reuters.com,2022:newsml_P8N2ST01E:139248424,en,T,2,HEALTH-CORONAVIRUS/HONGKONG (URGENT),Thomson Reuters,139248424
+STK567,24/03/2022 08:37:41,SA,tag:reuters.com,2022:newsml_L2N2VR0FU,UPDATE 1-Motor racing-Aston Martin's Vettel a doubt for Saudi Arabian Grand Prix,tag:reuters.com,2022:newsml_L2N2VR0FU:1170566104,en,T,3,MOTOR-F1-SAUDI/ (UPDATE 1),Thomson Reuters,1170566104
+STK567,24/03/2022 08:37:10,[
+  "RU";
+  "LT";
+  "UA"
+],tag:reuters.com,2022:newsml_MT1ALTS8N2VD0KZ4,LITHUANIA'S NAUSEDA SAYS SUPPORT TO PUTIN'S POLICY IS GROWING AND IT WORRIES ME A LOT,tag:reuters.com,2022:newsml_MT1ALTS8N2VD0KZ4:747181712,en,T,1,LITHUANIA'S NAUSEDA SAYS SUPPORT TO PUTIN'S POLICY IS GROWING AN,Thomson Reuters,747181712
+STK567,24/03/2022 08:36:43,[
+  "RU";
+  "LT";
+  "UA"
+],tag:reuters.com,2022:newsml_MT1ALTS8N2VD0KZ2,LITHUANIA'S NAUSEDA SAYS TALKING ABOUT POSSIBLE FITH, SIXTH PACKAGE OF SANCTIONS BUT SANCTIONS TAKE TIME,tag:reuters.com,2022:newsml_MT1ALTS8N2VD0KZ2:878876040,en,T,1,LITHUANIA'S NAUSEDA SAYS TALKING ABOUT POSSIBLE FITH, SIXTH PACK,Thomson Reuters,878876040
+STK567,24/03/2022 08:36:40,CN,tag:reuters.com,2022:newsml_MT1ALTP8N2ST01E4,HONG KONG HEALTH AUTHORITIES REPORT 201 NEW COVID-19 DEATHS,tag:reuters.com,2022:newsml_MT1ALTP8N2ST01E4:405669314,en,T,1,HONG KONG HEALTH AUTHORITIES REPORT 201 NEW COVID-19 DEATHS,Thomson Reuters,405669314
+STK567,24/03/2022 08:35:09,[
+  "KP";
+  "JP"
+],tag:reuters.com,2022:newsml_T9N2VD03B,Japan PM says N.Korea's missile launch 'unacceptable act of violence',tag:reuters.com,2022:newsml_T9N2VD03B:1416058710,en,T,2,NORTHKOREA-MISSILES/KISHIDA (URGENT),Thomson Reuters,1416058710
+STK567,24/03/2022 08:33:50,[
+  "RU";
+  "US";
+  "UA"
+],tag:reuters.com,2022:newsml_L2N2VR0BG,UPDATE 2-Ukraine urges West to take 'serious steps' in trio of summits,tag:reuters.com,2022:newsml_L2N2VR0BG:258619050,en,T,3,UKRAINE-CRISIS/NATO (UPDATE 2, PIX, TV),Thomson Reuters,258619050
+STK567,24/03/2022 08:33:36,[
+  "RU";
+  "EG";
+  "UA"
+],tag:reuters.com,2022:newsml_MT1ALTC6N2VD0054,EGYPT'S PRIME MINISTER SAYS ASKED IMF FOR POTENTIAL FUNDS PROTECTIVELY IN ADDITIONAL TO TECHNICAL SUPPORT BECAUSE RUSSIA-UKRAINE CONFLICT MAY BE PROLONGED,tag:reuters.com,2022:newsml_MT1ALTC6N2VD0054:277315920,en,T,1,EGYPT'S PRIME MINISTER SAYS ASKED IMF FOR POTENTIAL FUNDS PROTEC,Thomson Reuters,277315920
+STK567,24/03/2022 08:33:35,CN,tag:reuters.com,2022:newsml_MT1ALTP8N2ST01E2,HONG KONG HEALTH AUTHORITIES REPORT 13,074 NEW COVID-19 CASES,tag:reuters.com,2022:newsml_MT1ALTP8N2ST01E2:847124110,en,T,1,HONG KONG HEALTH AUTHORITIES REPORT 13,074 NEW COVID-19 CASES,Thomson Reuters,847124110
+STK567,24/03/2022 08:33:13,CH,tag:reuters.com,2022:newsml_Z8N2TF00N,Swiss National Bank keeps expansive policy despite more expensive franc,tag:reuters.com,2022:newsml_Z8N2TF00N:1215192972,en,T,2,SWISS-SNB/RATES (URGENT),Thomson Reuters,1215192972
+STK567,24/03/2022 08:32:42,[
+  "RU";
+  "EG";
+  "UA"
+],tag:reuters.com,2022:newsml_MT1ALTC6N2VD0052,EGYPT'S PRIME MINISTER SAYS STARTED TALKS WITH THE IMF FOR ANOTHER PROGRAMME SINCE SUMMER 2021 ON TECHNICAL SUPPORT,tag:reuters.com,2022:newsml_MT1ALTC6N2VD0052:199056417,en,T,1,EGYPT'S PRIME MINISTER SAYS STARTED TALKS WITH THE IMF FOR ANOTH,Thomson Reuters,199056417
+STK567,24/03/2022 08:31:17,[
+  "AU";
+  "CN";
+  "SB"
+],tag:reuters.com,2022:newsml_L2N2VR0EW,EXCLUSIVE-Solomon Islands considers security cooperation with China - official,tag:reuters.com,2022:newsml_L2N2VR0EW:374295015,en,T,3,SOLOMON ISLANDS-CHINA/SECURITY (UPDATE 1, EXCLUSIVE, PIX),Thomson Reuters,374295015
+STK567,24/03/2022 08:27:20,[
+  "KP";
+  "JP"
+],tag:reuters.com,2022:newsml_T9N2VD038,Japan lodges stern protest against N.Korea missile launch,tag:reuters.com,2022:newsml_T9N2VD038:1209564322,en,T,2,NORTHKOREA-MISSILES/JAPAN-PROTESTS (URGENT),Thomson Reuters,1209564322
+STK567,24/03/2022 08:27:19,GB,tag:reuters.com,2022:newsml_L3N2VR1YZ,London stocks struggle on Ukraine crisis, Next's glum outlook,tag:reuters.com,2022:newsml_L3N2VR1YZ:1362636750,en,T,2,BRITAIN-STOCKS/ (URGENT),Thomson Reuters,1362636750
+STK567,24/03/2022 08:26:28,[
+  "KR";
+  "KP";
+  "JP";
+  "US"
+],tag:reuters.com,2022:newsml_MT1ALTS6N2TX0034,S.KOREA MILITARY SAYS N.KOREA MISSILE WAS FIRED FROM SUNAN AREA,tag:reuters.com,2022:newsml_MT1ALTS6N2TX0034:1025796491,en,T,1,S.KOREA MILITARY SAYS N.KOREA MISSILE WAS FIRED FROM SUNAN AREA,Thomson Reuters,1025796491
+STK567,24/03/2022 08:26:23,[
+  "RU";
+  "BY";
+  "FR";
+  "DE";
+  "US";
+  "UA";
+  "PL"
+],tag:reuters.com,2022:newsml_L5N2VR20X,UPDATE 1-Renault shares down after company suspends Moscow plant,tag:reuters.com,2022:newsml_L5N2VR20X:154579460,en,T,3,UKRAINE-CRISIS/RENAULT-STOCKS (UPDATE 1),Thomson Reuters,154579460
+STK567,24/03/2022 08:25:02,[
+  "CH";
+  "IT";
+  "GB";
+  "FR";
+  "DE";
+  "ES"
+],tag:reuters.com,2022:newsml_L3N2VR1V5,European shares rise on defensive buying as Ukraine worries deepen,tag:reuters.com,2022:newsml_L3N2VR1V5:1637231723,en,T,2,EUROPE-STOCKS/ (URGENT),Thomson Reuters,1637231723
+STK567,24/03/2022 08:23:31,[
+  "KR";
+  "KP";
+  "JP";
+  "US"
+],tag:reuters.com,2022:newsml_S6N2TX003,S.Korea military says N.Korea missile flew 1,080 km to altitude of 6,200 km -Yonhap,tag:reuters.com,2022:newsml_S6N2TX003:1221715590,en,T,2,NORTHKOREA-MISSILES/SOUTHKOREA-MILITARY (URGENT),Thomson Reuters,1221715590
+STK567,24/03/2022 08:22:06,[
+  "CN";
+  "US"
+],tag:reuters.com,2022:newsml_L2N2VQ2Q8,UPDATE 2-U.S. reinstates 352 product exclusions from China tariffs,tag:reuters.com,2022:newsml_L2N2VQ2Q8:1901460417,en,T,3,USA-TRADE/CHINA-TARIFFS (UPDATE 2),Thomson Reuters,1901460417
+STK567,24/03/2022 08:20:09,[
+  "KR";
+  "KP";
+  "JP";
+  "US"
+],tag:reuters.com,2022:newsml_MT1ALTS6N2TX0032,S.KOREA MILITARY SAYS N.KOREA MISSILE FLEW 1,080 KM TO ALTITUDE OF 6,200 KM -YONHAP,tag:reuters.com,2022:newsml_MT1ALTS6N2TX0032:1475958539,en,T,1,S.KOREA MILITARY SAYS N.KOREA MISSILE FLEW 1,080 KM TO ALTITUDE,Thomson Reuters,1475958539
+STK567,24/03/2022 08:16:13,[
+  "RU";
+  "UA";
+  "ES"
+],tag:reuters.com,2022:newsml_LUN2SO017,EU's Borrell says Russia has no interest in negotiating ceasefire in Ukraine for now,tag:reuters.com,2022:newsml_LUN2SO017:2026753219,en,T,2,UKRAINE-CRISIS/BORRELL (URGENT),Thomson Reuters,2026753219
+STK567,24/03/2022 08:15:58,[
+  "RU";
+  "DE";
+  "US";
+  "UA"
+],tag:reuters.com,2022:newsml_R4N2V703L,Russia's Gazprom continues to export gas to Europe via Ukraine,tag:reuters.com,2022:newsml_R4N2V703L:1940132239,en,T,2,UKRAINE-CRISIS/GAZPROM (URGENT),Thomson Reuters,1940132239
+STK567,24/03/2022 08:07:34,[
+  "RU";
+  "BY";
+  "FR";
+  "DE";
+  "US";
+  "UA";
+  "PL"
+],tag:reuters.com,2022:newsml_MT1ALTS8N2V30932,RENAULT SHARES EXTEND LOSSES, NOW DOWN 2.2%, TOP LOOSER ON CAC40 INDEX,tag:reuters.com,2022:newsml_MT1ALTS8N2V30932:943191195,en,T,1,RENAULT SHARES EXTEND LOSSES, NOW DOWN 2.2%, TOP LOOSER ON CAC40,Thomson Reuters,943191195
+STK567,24/03/2022 08:06:58,[
+  "MM";
+  "US"
+],tag:reuters.com,2022:newsml_L3N2VQ3B6,Myanmar 'special command' authorised lethal attacks on civilians - report,tag:reuters.com,2022:newsml_L3N2VQ3B6:987906489,en,T,3,MYANMAR-MILITARY/ (PIX),Thomson Reuters,987906489
+STK567,24/03/2022 08:04:46,[
+  "RU";
+  "DE";
+  "US";
+  "UA"
+],tag:reuters.com,2022:newsml_MT1ALTR4N2V703L2,RUSSIA'S GAZPROM SAYS IT CONTINUES SHIPPING GAS TO EUROPE VIA UKRAINE, THURSDAY VOLUME 104 MLN CUBIC METRES,tag:reuters.com,2022:newsml_MT1ALTR4N2V703L2:1527848318,en,T,1,RUSSIA'S GAZPROM SAYS IT CONTINUES SHIPPING GAS TO EUROPE VIA UK,Thomson Reuters,1527848318
+STK567,24/03/2022 08:02:21,[
+  "SE";
+  "GB"
+],tag:reuters.com,2022:newsml_L3N2VR1M7,UPDATE 1-UK Stocks-Factors to watch on March 24,tag:reuters.com,2022:newsml_L3N2VR1M7:275352639,en,T,3,BRITAIN-STOCKS/FACTORS (UPDATE 1),Thomson Reuters,275352639
+STK567,24/03/2022 08:02:09,[
+  "RU";
+  "GB";
+  "UA"
+],tag:reuters.com,2022:newsml_L5N2VR1RW,UPDATE 1-UK's Johnson says pressure could be applied to Putin's gold reserves,tag:reuters.com,2022:newsml_L5N2VR1RW:904574808,en,T,3,UKRAINE-CRISIS/BRITAIN-JOHNSON (UPDATE 1, PIX),Thomson Reuters,904574808
+STK567,24/03/2022 08:01:58,[
+  "KR";
+  "KP";
+  "JP";
+  "US"
+],tag:reuters.com,2022:newsml_MT1ALTS6N2TX0006,S.KOREA SAYS N.KOREA USED INTERCONTINENTAL BALLISTIC MISSILE IN LATEST TEST -BLUE HOUSE,tag:reuters.com,2022:newsml_MT1ALTS6N2TX0006:1467110037,en,T,1,S.KOREA SAYS N.KOREA USED INTERCONTINENTAL BALLISTIC MISSILE IN,Thomson Reuters,1467110037
+STK567,24/03/2022 08:01:05,[
+  "RU";
+  "BY";
+  "FR";
+  "DE";
+  "US";
+  "UA";
+  "PL"
+],tag:reuters.com,2022:newsml_S8N2V3091,Renault shares down 1.5% after company suspends Moscow plant over war in Ukraine,tag:reuters.com,2022:newsml_S8N2V3091:2074358932,en,T,2,UKRAINE-CRISIS/RENAULT-STOCKS (URGENT),Thomson Reuters,2074358932
+STK567,24/03/2022 08:00:26,[
+  "RU";
+  "BY";
+  "FR";
+  "DE";
+  "US";
+  "UA";
+  "PL"
+],tag:reuters.com,2022:newsml_MT1ALTS8N2V30912,RENAULT SHARES  FALL 1.5 % AFTER CO PAUSES OPERATIONS AT MOSCOW PLANT,tag:reuters.com,2022:newsml_MT1ALTS8N2V30912:1595572287,en,T,1,RENAULT SHARES  FALL 1.5 % AFTER CO PAUSES OPERATIONS AT MOSCOW,Thomson Reuters,1595572287
+STK567,24/03/2022 07:58:30,[
+  "KR";
+  "KP";
+  "JP";
+  "US"
+],tag:reuters.com,2022:newsml_S6N2TX000,Moon says N.Korea's Kim violated moratorium on ICBM launches - Blue House,tag:reuters.com,2022:newsml_S6N2TX000:701233284,en,T,2,NORTHKOREA-MISSILES/MOON (URGENT),Thomson Reuters,701233284
+STK567,24/03/2022 07:56:51,[
+  "CH";
+  "IT";
+  "GB";
+  "JP";
+  "CN";
+  "FR";
+  "DE";
+  "US";
+  "ES"
+],tag:reuters.com,2022:newsml_L5N2VQ6FN,MORNING BID-A month of war,tag:reuters.com,2022:newsml_L5N2VQ6FN:1699468487,en,T,3,MARKETS-EUROPE/VIEW,Thomson Reuters,1699468487
+STK567,24/03/2022 07:55:52,[
+  "RU";
+  "UA"
+],tag:reuters.com,2022:newsml_L5N2VR1TV,Ukrainian agriculture minister has submitted resignation - aide,tag:reuters.com,2022:newsml_L5N2VR1TV:1156672560,en,T,2,UKRAINE-CRISIS/AGRICULTURE-MINISTER (URGENT),Thomson Reuters,1156672560
+STK567,24/03/2022 07:55:16,,tag:reuters.com,2022:newsml_L2N2VR0FX,Reuters Sports News Summary,tag:reuters.com,2022:newsml_L2N2VR0FX:1714954662,en,T,4,BC-SPORTS,Thomson Reuters,1714954662
+STK567,24/03/2022 07:55:03,[
+  "RU";
+  "UA"
+],tag:reuters.com,2022:newsml_S8N2UZ02Q,EU says assessing scenarios of potential Russian gas halt next winter,tag:reuters.com,2022:newsml_S8N2UZ02Q:1234117844,en,T,2,UKRAINE-CRISIS/EU-ENERGY (URGENT),Thomson Reuters,1234117844
+STK567,24/03/2022 07:54:16,[
+  "KR";
+  "KP";
+  "JP";
+  "US"
+],tag:reuters.com,2022:newsml_L2N2VR09S,WRAPUP 3-N.Korea fires possible ICBM in largest test since 2017,tag:reuters.com,2022:newsml_L2N2VR09S:669868162,en,T,3,NORTHKOREA-MISSILES/ (WRAPUP 3, TV, PIX),Thomson Reuters,669868162
+STK567,24/03/2022 07:52:58,SA,tag:reuters.com,2022:newsml_L3N2VR1RX,Motor racing-Aston Martin F1 driver Vettel doubtful for Saudi Arabia Grand Prix,tag:reuters.com,2022:newsml_L3N2VR1RX:221916134,en,T,3,MOTOR-F1-SAUDI/,Thomson Reuters,221916134
+STK567,24/03/2022 07:51:28,[
+  "RU";
+  "US";
+  "UA"
+],tag:reuters.com,2022:newsml_L2N2VR03A,TOP WRAP 3-Ukraine urges global protests as leaders meet to discuss tougher action,tag:reuters.com,2022:newsml_L2N2VR03A:1590610295,en,T,3,UKRAINE-CRISIS/ (TOP WRAP 3, PIX, TV, GRAPHIC),Thomson Reuters,1590610295
+STK567,24/03/2022 07:48:45,[
+  "KP";
+  "JP"
+],tag:reuters.com,2022:newsml_T9N2VD039,N.Korea's projectile appears to be new model of ICBM - Japan govt,tag:reuters.com,2022:newsml_T9N2VD039:582696184,en,T,2,NORTHKOREA-MISSILES/JAPAN (URGENT),Thomson Reuters,582696184
+STK567,24/03/2022 07:48:27,[
+  "KR";
+  "KP";
+  "JP";
+  "US"
+],tag:reuters.com,2022:newsml_MT1ALTS6N2TX0004,MOON SAYS N.KOREA'S KIM VIOLATED MORATORIUM ON ICBM LAUNCHES -BLUE HOUSE,tag:reuters.com,2022:newsml_MT1ALTS6N2TX0004:986276089,en,T,1,MOON SAYS N.KOREA'S KIM VIOLATED MORATORIUM ON ICBM LAUNCHES -BL,Thomson Reuters,986276089
+STK567,24/03/2022 07:48:12,[
+  "RU";
+  "UA"
+],tag:reuters.com,2022:newsml_MT1ALTL5N2VR1TV1,UKRAINIAN AGRICULTURE MINISTER ROMAN LESHCHENKO HAS RESIGNED - AIDE CONFIRMS TO REUTERS WITHOUT STATING REASON,tag:reuters.com,2022:newsml_MT1ALTL5N2VR1TV1:2115021055,en,T,1,UKRAINIAN AGRICULTURE MINISTER ROMAN LESHCHENKO HAS RESIGNED - A,Thomson Reuters,2115021055
+STK567,24/03/2022 07:48:10,CN,tag:reuters.com,2022:newsml_L2N2VR0E6,China stocks end lower as hawkish Fed, geopolitical concerns weigh,tag:reuters.com,2022:newsml_L2N2VR0E6:498944603,en,T,3,CHINA-STOCKS/CLOSE,Thomson Reuters,498944603
+STK567,24/03/2022 07:47:46,[
+  "RU";
+  "UA"
+],tag:reuters.com,2022:newsml_MT1ALTS8N2UZ02Q2,EU IS ASSESSING SCENARIOS OF POTENTIAL RUSSIAN GAS DISRUPTION NEXT WINTER - EU'S DOMBROVSKIS,tag:reuters.com,2022:newsml_MT1ALTS8N2UZ02Q2:1801191486,en,T,1,EU IS ASSESSING SCENARIOS OF POTENTIAL RUSSIAN GAS DISRUPTION N,Thomson Reuters,1801191486
+STK567,24/03/2022 07:47:28,[
+  "KR";
+  "KP";
+  "JP";
+  "US"
+],tag:reuters.com,2022:newsml_MT1ALTS6N2TX0002,S.KOREA'S MOON STRONGLY CONDEMNED N.KOREA MISSILE LAUNCH -BLUE HOUSE,tag:reuters.com,2022:newsml_MT1ALTS6N2TX0002:428147120,en,T,1,S.KOREA'S MOON STRONGLY CONDEMNED N.KOREA MISSILE LAUNCH -BLUE H,Thomson Reuters,428147120
+STK567,24/03/2022 07:44:52,[
+  "RU";
+  "UA";
+  "ES"
+],tag:reuters.com,2022:newsml_MT1ALTLUN2SO0174,EU'S TOP DIPLOMAT BORRELL SAYS RUSSIA SEEKS TO ISOLATE UKRAINE FROM SEA, HAS NO INTEREST IN NEGOTIATING UNTIL THEN,tag:reuters.com,2022:newsml_MT1ALTLUN2SO0174:1573623195,en,T,1,EU'S TOP DIPLOMAT BORRELL SAYS RUSSIA SEEKS TO ISOLATE UKRAINE F,Thomson Reuters,1573623195
+STK567,24/03/2022 07:42:04,[
+  "RU";
+  "UA";
+  "ES"
+],tag:reuters.com,2022:newsml_MT1ALTLUN2SO0172,EU'S TOP DIPLOMAT BORRELL SAYS RUSSIAN ARMY HAS NOT REACHED ITS GOALS IN UKRAINE,tag:reuters.com,2022:newsml_MT1ALTLUN2SO0172:995511934,en,T,1,EU'S TOP DIPLOMAT BORRELL SAYS RUSSIAN ARMY HAS NOT REACHED ITS,Thomson Reuters,995511934
+STK567,24/03/2022 07:38:32,GB,tag:reuters.com,2022:newsml_L9N2RV021,UK needs to go big on nuclear and offshore wind, Johnson says,tag:reuters.com,2022:newsml_L9N2RV021:110130514,en,T,2,BRITAIN-ENERGY/ (URGENT),Thomson Reuters,110130514
+STK567,24/03/2022 07:37:21,[
+  "CN";
+  "US"
+],tag:reuters.com,2022:newsml_B9N2VI01A,China hopes U.S. will scrap all tariffs on Chinese products: commerce ministry,tag:reuters.com,2022:newsml_B9N2VI01A:1797152106,en,T,2,CHINA-USA/TRADE (URGENT),Thomson Reuters,1797152106
+STK567,24/03/2022 07:36:40,RU,tag:reuters.com,2022:newsml_L2N2VR0E0,Rouble recovers further, jittery stock trading resumes after month-long hiatus,tag:reuters.com,2022:newsml_L2N2VR0E0:1989862587,en,T,3,RUSSIA-MARKETS/ (TV),Thomson Reuters,1989862587
+STK567,24/03/2022 07:35:13,,tag:reuters.com,2022:newsml_MTZXEI3N737LEA,UPDATE 2-Australian Sheffield Shield Scoreboard,tag:reuters.com,2022:newsml_MTZXEI3N737LEA:2,en,T,4,CRICKET-AUSTRALIA/SCOREBOARD (UPDATE 2),Opta Sports Data,2
+STK567,24/03/2022 07:34:54,[
+  "AF";
+  "CN"
+],tag:reuters.com,2022:newsml_L3N2VR1P4,China's foreign minister visits Afghanistan,tag:reuters.com,2022:newsml_L3N2VR1P4:132224025,en,T,2,AFGHANISTAN-CHINA/ (URGENT),Thomson Reuters,132224025
+STK567,24/03/2022 07:33:42,[
+  "RU";
+  "UA"
+],tag:reuters.com,2022:newsml_L5N2VR1OM,Ukraine says seven humanitarian corridors agreed, no safe passage from Mariupol,tag:reuters.com,2022:newsml_L5N2VR1OM:499108874,en,T,2,(URGENT),Thomson Reuters,499108874
+STK567,24/03/2022 07:31:40,[
+  "AU";
+  "KR";
+  "TW";
+  "JP";
+  "CN";
+  "US"
+],tag:reuters.com,2022:newsml_L3N2VR1BY,GLOBAL MARKETS-Asian shares struggle, oil edges lower as Ukraine worries linger,tag:reuters.com,2022:newsml_L3N2VR1BY:219928908,en,T,3,GLOBAL-MARKETS/ (WRAPUP 2),Thomson Reuters,219928908
+STK567,24/03/2022 07:30:09,[
+  "ZA";
+  "PK";
+  "GB";
+  "NZ"
+],tag:reuters.com,2022:newsml_L2N2VR0C0,UPDATE 1-Cricket-South Africa through to Women's World Cup semis, England still in the hunt,tag:reuters.com,2022:newsml_L2N2VR0C0:1653489793,en,T,3,CRICKET-WORLDCUP/WOMEN (UPDATE 1),Thomson Reuters,1653489793
+STK567,24/03/2022 07:30:00,[
+  "JP";
+  "US"
+],tag:reuters.com,2022:newsml_L2N2VR07W,U.S., Japan strike deal to lower chances of higher Japanese duties on beef,tag:reuters.com,2022:newsml_L2N2VR07W:706438924,en,T,3,USA-TRADE/JAPAN,Thomson Reuters,706438924
+STK567,24/03/2022 07:27:32,[
+  "AF";
+  "CN"
+],tag:reuters.com,2022:newsml_MT1ALTL3N2VR1P41,CHINA’S FOREIGN MINISTER VISITS AFGHANISTAN TO MEET WITH COUNTERPART - AFGHAN FOREIGN MINISTRY SPOKESMAN,tag:reuters.com,2022:newsml_MT1ALTL3N2VR1P41:1975928155,en,T,1,CHINA’S FOREIGN MINISTER VISITS AFGHANISTAN TO MEET WITH COUNTER,Thomson Reuters,1975928155
+STK567,24/03/2022 07:27:24,JP,tag:reuters.com,2022:newsml_L3N2VQ21K,Japan considering mandatory disclosure of gender wage, female manager ratio - sources,tag:reuters.com,2022:newsml_L3N2VQ21K:1467882102,en,T,3,JAPAN-ECONOMY/GENDER,Thomson Reuters,1467882102
+STK567,24/03/2022 07:27:22,[
+  "KR";
+  "KP";
+  "JP";
+  "US"
+],tag:reuters.com,2022:newsml_L2N2VR09S,WRAPUP 2-N.Korea fires possible ICBM in largest test since 2017,tag:reuters.com,2022:newsml_L2N2VR09S:1648154391,en,T,3,NORTHKOREA-MISSILES/ (WRAPUP 2, TV, PIX),Thomson Reuters,1648154391
+STK567,24/03/2022 07:25:54,[
+  "RU";
+  "KR";
+  "KP";
+  "JP";
+  "CN";
+  "US"
+],tag:reuters.com,2022:newsml_T9N2VD00P,N.Korean projectile lands near Japan's Aomori prefecture,tag:reuters.com,2022:newsml_T9N2VD00P:161382720,en,T,2,NORTHKOREA-MISSILES/JAPAN-LANDED (URGENT),Thomson Reuters,161382720
+STK567,24/03/2022 07:25:31,[
+  "RU";
+  "BE";
+  "UA"
+],tag:reuters.com,2022:newsml_L3N2VR1KJ,Belgium to inject another billion euros into its army - L'Echo,tag:reuters.com,2022:newsml_L3N2VR1KJ:601007180,en,T,3,UKRAINE-CRISIS/BELGIUM-DEFENSE,Thomson Reuters,601007180
+STK567,24/03/2022 07:25:30,[
+  "RU";
+  "KR";
+  "KP";
+  "JP";
+  "CN";
+  "US"
+],tag:reuters.com,2022:newsml_MT1ALTL3N2VR1NU1,REFILE-JAPAN VICE DEFENCE MINISTER: WE THINK THAT THE PROJECTILE THAT WAS LAUNCHED FROM NORTH KOREA MAY BE A NEW TYPE OF INTERCONTINENTAL BALLISTIC MISSILE (ADDS DROPPED WORD),tag:reuters.com,2022:newsml_MT1ALTL3N2VR1NU1:1607532620,en,T,1,REFILE-JAPAN VICE DEFENCE MINISTER: WE THINK THAT THE PROJECTILE,Thomson Reuters,1607532620
+STK567,24/03/2022 07:25:11,,tag:reuters.com,2022:newsml_MTZXEI3N737LEB,UPDATE 3-Australian Sheffield Shield Scoreboard,tag:reuters.com,2022:newsml_MTZXEI3N737LEB:3,en,T,4,CRICKET-AUSTRALIA/SCOREBOARD (UPDATE 3),Opta Sports Data,3
+STK567,24/03/2022 07:24:20,GB,tag:reuters.com,2022:newsml_MT1ALTL9N2RV0212,UK PM JOHNSON SAYS WE NEED TO GO BIG ON NUCLEAR ENERGY AND OFF SHORE WIND,tag:reuters.com,2022:newsml_MT1ALTL9N2RV0212:635416965,en,T,1,UK PM JOHNSON SAYS WE NEED TO GO BIG ON NUCLEAR ENERGY AND OFF S,Thomson Reuters,635416965
+STK567,24/03/2022 07:24:03,[
+  "RU";
+  "UA"
+],tag:reuters.com,2022:newsml_MT1ALTL5N2VR1OM1,UKRAINE SAYS SEVEN HUMANITARIAN CORRIDORS AGREED FOR THURSDAY, NO MENTION OF SAFE PASSAGE FROM CENTRE OF BESIEGED CITY OF MARIUPOL,tag:reuters.com,2022:newsml_MT1ALTL5N2VR1OM1:981751512,en,T,1,UKRAINE SAYS SEVEN HUMANITARIAN CORRIDORS AGREED FOR THURSDAY, N,Thomson Reuters,981751512
+STK567,24/03/2022 07:23:03,[
+  "RU";
+  "GB";
+  "BY";
+  "US";
+  "UA"
+],tag:reuters.com,2022:newsml_L9N2U5011,UK's Johnson says pressure could be applied to Putin's gold reserves,tag:reuters.com,2022:newsml_L9N2U5011:443516261,en,T,2,UKRAINE-CRISIS/BRITAIN-JOHNSON (URGENT),Thomson Reuters,443516261
+STK567,24/03/2022 07:22:54,[
+  "RU";
+  "US";
+  "UA"
+],tag:reuters.com,2022:newsml_L2N2VR0BG,UPDATE 1-'Russia will pay': West to warn Putin in trio of summits,tag:reuters.com,2022:newsml_L2N2VR0BG:737338479,en,T,3,UKRAINE-CRISIS/NATO (UPDATE 1, PIX, TV),Thomson Reuters,737338479
+STK567,24/03/2022 07:21:41,[
+  "RU";
+  "TR";
+  "US";
+  "UA"
+],tag:reuters.com,2022:newsml_L5N2VR15S,Turkey urges more Ukraine ceasefire efforts, to continue mediation,tag:reuters.com,2022:newsml_L5N2VR15S:1188562634,en,T,3,UKRAINE-CRISIS/TURKEY,Thomson Reuters,1188562634
+STK567,24/03/2022 07:20:32,[
+  "RU";
+  "KR";
+  "KP";
+  "JP";
+  "CN";
+  "US"
+],tag:reuters.com,2022:newsml_MT1ALTT9N2VD00Q2,JAPAN VICE DEFENSE MINISTER: WE THINK THAT THE PROJECTILE THAT WAS LAUNCHED FROM NORTH KOREA MAY BE A NEW TYPE OF INTER-BALLISTIC MISSILE,tag:reuters.com,2022:newsml_MT1ALTT9N2VD00Q2:1191177054,en,T,1,JAPAN VICE DEFENSE MINISTER: WE THINK THAT THE PROJECTILE THAT W,Thomson Reuters,1191177054
+STK567,24/03/2022 07:20:14,,tag:reuters.com,2022:newsml_MTZXEI3N737LEB,UPDATE 2-Australian Sheffield Shield Scoreboard,tag:reuters.com,2022:newsml_MTZXEI3N737LEB:2,en,T,4,CRICKET-AUSTRALIA/SCOREBOARD (UPDATE 2),Opta Sports Data,2
+STK567,24/03/2022 07:17:54,[
+  "AU";
+  "PK"
+],tag:reuters.com,2022:newsml_L3N2VR16T,Cricket-Warner, Khawaja put Australia in firm control of deciding test,tag:reuters.com,2022:newsml_L3N2VR16T:1150792442,en,T,3,CRICKET-TEST-PAK-AUS/,Thomson Reuters,1150792442
+STK567,24/03/2022 07:14:12,[
+  "PK";
+  "CN";
+  "IN"
+],tag:reuters.com,2022:newsml_L3N2VR16R,India rebukes China's foreign minister over Kashmir remarks ahead of planned visit,tag:reuters.com,2022:newsml_L3N2VR16R:957518326,en,T,3,INDIA-CHINA/,Thomson Reuters,957518326
+STK567,24/03/2022 07:12:01,[
+  "PK";
+  "IN"
+],tag:reuters.com,2022:newsml_L5N2VR0XE,Pakistan PM Khan says he won't resign ahead of no-confidence move,tag:reuters.com,2022:newsml_L5N2VR0XE:78424531,en,T,3,PAKISTAN-POLITICS/ (PIX),Thomson Reuters,78424531
+STK567,24/03/2022 07:11:51,[
+  "RU";
+  "KR";
+  "KP";
+  "JP";
+  "CN";
+  "US"
+],tag:reuters.com,2022:newsml_MT1ALTT9N2VD00P6,JAPAN COAST GUARD: APPARENT MISSILE LANDED 170 KM WEST OF AOMORI PREFECTURE,tag:reuters.com,2022:newsml_MT1ALTT9N2VD00P6:34590337,en,T,1,JAPAN COAST GUARD: APPARENT MISSILE LANDED 170 KM WEST OF AOMORI,Thomson Reuters,34590337
+STK567,24/03/2022 07:11:09,[
+  "RU";
+  "KR";
+  "KP";
+  "JP";
+  "CN";
+  "US"
+],tag:reuters.com,2022:newsml_MT1ALTT9N2VD00P4,JAPAN COAST GUARD: NORTH KOREA'S APPARENT MISSILE LANDED 1544 JAPAN TIME,tag:reuters.com,2022:newsml_MT1ALTT9N2VD00P4:1588088222,en,T,1,JAPAN COAST GUARD: NORTH KOREA'S APPARENT MISSILE LANDED 1544 JA,Thomson Reuters,1588088222
+STK567,24/03/2022 07:11:08,[
+  "RU";
+  "GB";
+  "BY";
+  "US";
+  "UA"
+],tag:reuters.com,2022:newsml_MT1ALTL9N2U501110,UK PM JOHNSON SAYS IT IS RIGHT THAT PRESIDENT PUTIN SHOULD APPEAR BEFORE THE INTERNATIONAL CRIMINAL COURT,tag:reuters.com,2022:newsml_MT1ALTL9N2U501110:437807629,en,T,1,UK PM JOHNSON SAYS IT IS RIGHT THAT PRESIDENT PUTIN SHOULD APPEA,Thomson Reuters,437807629
+STK567,24/03/2022 07:10:12,[
+  "RU";
+  "GB";
+  "BY";
+  "US";
+  "UA"
+],tag:reuters.com,2022:newsml_MT1ALTL9N2U50118,UK PM JOHNSON SAYS I TALK TO ZELENSKIY REGULARLY, WILL BE SEEING HIM SHORTLY,tag:reuters.com,2022:newsml_MT1ALTL9N2U50118:1717110114,en,T,1,UK PM JOHNSON SAYS I TALK TO ZELENSKIY REGULARLY, WILL BE SEEING,Thomson Reuters,1717110114
+STK567,24/03/2022 07:08:55,[
+  "RU";
+  "KR";
+  "TW";
+  "GB";
+  "JP";
+  "CN";
+  "DE";
+  "UA"
+],tag:reuters.com,2022:newsml_L3N2VR0OA,Asian gas buyers puzzle over Putin's demand for payment in roubles,tag:reuters.com,2022:newsml_L3N2VR0OA:1481166452,en,T,3,UKRAINE-CRISIS/RUSSIA-GAS-PUTIN,Thomson Reuters,1481166452
+STK567,24/03/2022 07:08:07,[
+  "RU";
+  "GB";
+  "BY";
+  "US";
+  "UA"
+],tag:reuters.com,2022:newsml_MT1ALTL9N2U50116,UK PM JOHNSON SAYS CAN WE DO MORE TO STOP PUTIN FROM USING HIS GOLD RESERVES,tag:reuters.com,2022:newsml_MT1ALTL9N2U50116:1340647369,en,T,1,UK PM JOHNSON SAYS CAN WE DO MORE TO STOP PUTIN FROM USING HIS G,Thomson Reuters,1340647369
+STK567,24/03/2022 07:07:44,[
+  "RU";
+  "GB";
+  "BY";
+  "US";
+  "UA"
+],tag:reuters.com,2022:newsml_MT1ALTL9N2U50114,UK PM JOHNSON SAYS PUTIN HAS ALREADY CROSSED A RED LINE,tag:reuters.com,2022:newsml_MT1ALTL9N2U50114:1433004018,en,T,1,UK PM JOHNSON SAYS PUTIN HAS ALREADY CROSSED A RED LINE,Thomson Reuters,1433004018
+STK567,24/03/2022 07:07:30,[
+  "RU";
+  "GB";
+  "BY";
+  "US";
+  "UA"
+],tag:reuters.com,2022:newsml_MT1ALTL9N2U50112,UK PM JOHNSON SAYS WE WILL INCREASE THE PRESSURE ON PUTIN,tag:reuters.com,2022:newsml_MT1ALTL9N2U50112:1481298322,en,T,1,UK PM JOHNSON SAYS WE WILL INCREASE THE PRESSURE ON PUTIN,Thomson Reuters,1481298322
+STK567,24/03/2022 07:07:12,[
+  "AU";
+  "CN";
+  "SB"
+],tag:reuters.com,2022:newsml_L3N2VR18G,EXCLUSIVE-Solomon Islands considers security cooperation with China - official,tag:reuters.com,2022:newsml_L3N2VR18G:588518969,en,T,3,SOLOMON ISLANDS-CHINA/SECURITY (EXCLUSIVE),Thomson Reuters,588518969
+STK567,24/03/2022 07:06:25,,tag:reuters.com,2022:newsml_MTZXEI3N7RH7PK,UPDATE 4-MLB Marlins vs Nationals Box Score,tag:reuters.com,2022:newsml_MTZXEI3N7RH7PK:4,en,T,4,BASEBALL-MLB-MIA-WAS/BOXSCORE (UPDATE 4),Opta Sports Data,4
+STK567,24/03/2022 07:02:15,LK,tag:reuters.com,2022:newsml_L3N2VP2JF,Sri Lanka to seek World Bank support alongside IMF loan programme - sources,tag:reuters.com,2022:newsml_L3N2VP2JF:1883565928,en,T,3,SRI LANKA-CRISIS/WORLDBANK (PIX),Thomson Reuters,1883565928
+STK567,24/03/2022 07:00:14,[
+  "KR";
+  "KP";
+  "JP";
+  "US"
+],tag:reuters.com,2022:newsml_L2N2VR09S,WRAPUP 1-N.Korea fires possible ICBM at full capability for first time since 2017,tag:reuters.com,2022:newsml_L2N2VR09S:1774368230,en,T,3,NORTHKOREA-MISSILES/ (UPDATE 3, TV, PIX),Thomson Reuters,1774368230
+STK567,24/03/2022 06:58:53,[
+  "RU";
+  "UA"
+],tag:reuters.com,2022:newsml_L3N2VR1C0,Barclays says global recession unlikely, cuts growth expectations,tag:reuters.com,2022:newsml_L3N2VR1C0:504010319,en,T,3,GLOBAL-ECONOMY/BARCLAYS,Thomson Reuters,504010319
+STK567,24/03/2022 06:54:30,AE,tag:reuters.com,2022:newsml_S8N2TS00I,UAE's Barakah Nuclear Energy Plant starts commercial operations at Unit 2 - ENEC,tag:reuters.com,2022:newsml_S8N2TS00I:1773009447,en,T,2,EMIRATES-ENERGY/NUCLEAR (URGENT),Thomson Reuters,1773009447
+STK567,24/03/2022 06:54:19,[
+  "KR";
+  "KP";
+  "JP"
+],tag:reuters.com,2022:newsml_MT1ALTT9N28908R2,JAPAN COAST GUARD SAYS NORTH KOREA'S APPARENT MISSILE ALREADY LANDED,tag:reuters.com,2022:newsml_MT1ALTT9N28908R2:686204245,en,T,1,JAPAN COAST GUARD SAYS NORTH KOREA'S APPARENT MISSILE ALREADY LA,Thomson Reuters,686204245
+STK567,24/03/2022 06:54:06,[
+  "RU";
+  "KR";
+  "KP";
+  "JP";
+  "CN";
+  "US"
+],tag:reuters.com,2022:newsml_MT1ALTT9N2VD00P2,JAPAN COAST GUARD SAYS NORTH KOREA'S APPARENT MISSILE ALREADY LANDED,tag:reuters.com,2022:newsml_MT1ALTT9N2VD00P2:2130148683,en,T,1,JAPAN COAST GUARD SAYS NORTH KOREA'S APPARENT MISSILE ALREADY LA,Thomson Reuters,2130148683
